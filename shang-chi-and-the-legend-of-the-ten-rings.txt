@@ -1,24 +1,24 @@
 (SOFT TRADITIONAL MUSIC PLAYING)
 
-WOMAN: (IN MANDARIN) The legend of the ten rings has been told for thousands of years.
+LI: 十环的传说已经流传了上千年。
 
-Every generation, the story grows.
+LI: 不论这个故事如何演变。
 
-But at its centre there is always one man.
+LI: 它的主人公永远都是同一个人。
 
 (HORSE GRUNTS)
 
-Some say he found the rings in a crater or stole them from a tomb.
+LI: 有人说他的十环是火山口里捡来的 还有人说是墓穴里盗来的。
 
-They gave him the strength of a god, and the gift of eternal life.
+LI: 它们给了他神一般的力量，也赋予了他长生不老的魔法。
 
 (BREATHES SHAKILY)
 
-He could have used them for good.
+LI: 他本可借着十环之力来惩恶扬善。
 
 (ARROWS WHIZZING)
 
-But all he wanted… was power.
+LI: 但他想要的... 只有征服。
 
 (RINGS CLANG)
 
@@ -42,41 +42,41 @@ But all he wanted… was power.
 
 (SOLDIERS GRUNTING SYNCHRONOUSLY)
 
-He called his army The Ten Rings.
+LI: 他造了一支十环军团。
 
-Over the centuries, they spread into every corner of the world.
+LI: 千百年来 他们扫荡了世界的每个角落。
 
 (ALL GRUNTING)
 
-They moved in the shadows…
+LI: 他们潜伏于暗中...
 
 (SCREAMING)
 
-Toppled governments…
+LI: 颠覆各方政权...
 
-And changed the course of history.
+LI: 也改写了历史。
 
 (MEN SCREAM)
 
-He chased money and power for a thousand years.
+LI: 凭借着士环之力他早已称霸天下。
 
-But he still wanted more.
+LI: 但他却还不满足。
 
-(IN MANDARIN) Have you heard the legend of Ta Lo?
+WENWU: 你听说过大罗的传说吗？
 
-A hidden village with mythical creatures and ancient magic.
+WENWU: 一个隐世的村庄 在那里 神奇的功法代代相传。
 
-Where people practise a martial arts style from the gods.
+WENWU: 传说中的神兽和古老的法术还都存在。
 
-I want to find it.
+WENWU: 我要找到这个地方。
 
-Of course. I’ll send a scout to explore the area, and come back with more information.
+CHANCELLOR HUI: 明白。我这就派侦查队去一探究竟，然后有消息立马跟你汇报。
 
-I want to go now.
+WENWU: 我们现在就去。
 
 (SLOW DRAMATIC MUSIC PLAYING)
 
-The forest… is moving.
+CHANCELLOR HUI: 这竹林... 好像在动。
 
 (TREES RATTLING)
 
@@ -86,23 +86,23 @@ The forest… is moving.
 
 (CRASHING)
 
-WOMAN: He had nothing left on Earth to conquer.
+LI: 这世上再也没有可以让他征服的地方了。
 
-That’s when he came for my home.
+LI: 于是他找上了我的家乡。
 
-Where’s the entrance to Ta Lo?
+WENWU: 大罗入口在哪？
 
-You’re not welcome in our village.
+LI: 我们村庄不欢迎你。
 
-You don’t know who you’re talking to.
+WENWU: 你好像不知道我是谁。
 
-I don’t care who you are.
+LI: 我不管你是谁。
 
-Turn around now, and I won’t have to hurt you.
+LI: 走吧，不要自找麻烦。
 
 (SCOFFS)
 
-Is that all?
+LI: 就这点本事？
 
 (TENSE MUSIC PLAYING)
 
@@ -130,33 +130,33 @@ Is that all?
 
 (GASPS)
 
-LI: That was the first time I met your father.
+LI: 那是我第一次见到你的父亲。
 
 (SOFT TRADITIONAL MUSIC PLAYING)
 
-He was the last person I thought I’d fall for.
+LI: 我从没想过自己会为他动心。
 
-But love had other plans.
+LI: 但爱总是自有安排。
 
-Shang-Chi, there’s much more to know about the legend of the rings, but you’ll learn about that when you’re older.
+LI: 尚气，十环的传说讲都讲不完，等你长大了自然就会了解到。
 
-If Dad’s rings were so powerful, how did you beat him?
+YOUNG SHANG-CHI: 可爸爸的十环那么厉害，你是怎么打败他的？
 
-Where I’m from, we are empowered by the magic of the Great Protector.
+LI: 妈妈的故乡大罗有一个神龙，它是我们的保护神。
 
-When you have the heart of our dragon, you can do some amazing things.
+LI: 等你领悟了神龙之心，你就可以做很多了不起的事情。
 
-Can you still do those things?
+YOUNG SHANG-CHI: 那你现在还有魔法吗？
 
-I left those powers in Ta Lo with our dragon, but what I got in return is so much better.
+LI: 妈妈离开的时候把魔法还给了神龙，但是妈妈得到的更宝贵。
 
 (BOTH CHUCKLE)
 
-I want you to have this.
+LI: 这个给你。
 
-Whenever you feel lost, this will help you find your way home.
+LI: 如果有一天你迷路了，它会帮你找到回家的路。
 
-Can you remember that?
+LI: 记住了吗？
 
 (BOTH CHUCKLE)
 
@@ -166,7 +166,7 @@ Can you remember that?
 
 (SIGHS)
 
-(IN ENGLISH) Okay.
+SHAUN: Okay.
 
 (HIP-HOP MUSIC PLAYING)
 
@@ -176,47 +176,47 @@ Can you remember that?
 
 (HIP-HOP MUSIC CONTINUES)
 
-Hello, sir, welcome to the Fairmont…
+SHAUN: Hello, sir, welcome to the Fairmont…
 
 (GASPING)
 
-I’m driving.
+KATY: I’m driving.
 
-No, you’re not… Katy.
+SHAUN: No, you’re not… Katy.
 
-Hey, hey, get back here.
+SHAUN: Hey, hey, get back here.
 
-Give me the key.
+SHAUN: Give me the key.
 
-(SIGHS) Please open the door.
+SHAUN: (SIGHS) Please open the door.
 
 (ENGINE ROARS)
 
-Oh, my God.
+KATY: Oh, my God.
 
-Get out.
+SHAUN: Get out.
 
-You get in!
+KATY: You get in!
 
-Look, if happens to this thing, we’re gonna be jobless and in debt for the rest of our lives.
+SHAUN: Look, if happens to this thing, we’re gonna be jobless and in debt for the rest of our lives.
 
-Oh, come on. Nothing’s gonna happen to this car.
+KATY: Oh, come on. Nothing’s gonna happen to this car.
 
-I’m the Asian Jeff Gordon.
+KATY: I’m the Asian Jeff Gordon.
 
-I don’t know who that is.
+SHAUN: I don’t know who that is.
 
-Most career wins in all of NASCAR history?
+KATY: Most career wins in all of NASCAR history?
 
-Please get out of the car.
+SHAUN: Please get out of the car.
 
-Shaun, we’ve been friends for 10 years, okay?
+KATY: Shaun, we’ve been friends for 10 years, okay?
 
-You know I’m not an idiot.
+KATY: You know I’m not an idiot.
 
-(SIGHS)
+(SHANG-CHI SIGHS)
 
-Please, get in. I’ll go slow.
+KATY: Please, get in. I’ll go slow.
 
 (ENGINE REVVING)
 
@@ -224,99 +224,99 @@ Please, get in. I’ll go slow.
 
 (GIGGLES)
 
-(GASPS) Katy, watch the…
+SHAUN: (GASPS) Katy, watch the…
 
 (TYRES SCREECHING)
 
 SHAUN: I knew Katy was trouble the first day we met in high school.
 
-I was getting picked on a lot, for all the reasons we all get picked on a lot.
+SHAUN: I was getting picked on a lot, for all the reasons we all get picked on a lot.
 
-Plus, I had just moved to the US, so I was struggling with my English, and I was on my way to lunch one day when this guy who was like twice my size yells at me from down the hall, “What’s up, Gangnam Style?”
+SHAUN: Plus, I had just moved to the US, so I was struggling with my English, and I was on my way to lunch one day when this guy who was like twice my size yells at me from down the hall, “What’s up, Gangnam Style?”
 
-So I yelled back, “I’m not Korean, idiot.”
+SHAUN: So I yelled back, “I’m not Korean, idiot.”
 
-And I turn the corner, and I see this guy drop his backpack, he’s getting all up in his face…
+KATY: And I turn the corner, and I see this guy drop his backpack, he’s getting all up in his face…
 
-And right before he was about to throw the first punch,
+SHAUN: And right before he was about to throw the first punch,
 
-Katy comes out of nowhere, steps right between us and starts screaming the lyrics to Hotel California.
+SHAUN: Katy comes out of nowhere, steps right between us and starts screaming the lyrics to Hotel California.
 
-What?
+JOHN: What?
 
-It’s the art of confusion. Works great on stupid people.
+KATY: It’s the art of confusion. Works great on stupid people.
 
 SHAUN: And that’s how we met.
 
-Then I pulled him into the parking lot…
+KATY: Then I pulled him into the parking lot…
 
-At which point she revealed that she had also swiped the keys to the guy’s Mustang.
+SHAUN: At which point she revealed that she had also swiped the keys to the guy’s Mustang.
 
-Yeah, we went on a little joyride around the block.
+KATY: Yeah, we went on a little joyride around the block.
 
-And your wife was in the car, too.
+KATY: And your wife was in the car, too.
 
-That’s true. You were.
+SHAUN: That’s true. You were.
 
-What?
+JOHN: What?
 
-I was just in the back seat.
+SOO: I was just in the back seat.
 
-That’s a part of the car.
+KATY: That’s a part of the car.
 
-That’s still a part of the car.
+SHAUN: That’s still a part of the car.
 
-How have you never told me this story?
+JOHN: How have you never told me this story?
 
-You know, before she was a lawyer,
+KATY: You know, before she was a lawyer,
 
-your girl was pretty wild.
+KATY: your girl was pretty wild.
 
-Oh! What happened?
+JOHN: Oh! What happened?
 
-I grew up.
+SOO: I grew up.
 
-What’s that supposed to mean?
+KATY: What’s that supposed to mean?
 
-Yeah, what’s that supposed to mean?
+SHAUN: Yeah, what’s that supposed to mean?
 
-That maybe there’s a point
+SOO: That maybe there’s a point
 
-where you’re supposed to stop going on joyrides and start thinking about living up to your potential.
+SOO: where you’re supposed to stop going on joyrides and start thinking about living up to your potential.
 
-Please tell me you’re kidding, Soo.
+KATY: Please tell me you’re kidding, Soo.
 
 SOO: Look, we’re now living in a world where at any moment half the population can just disappear.
 
-Life’s too short and too fragile.
+SOO: Life’s too short and too fragile.
 
-Katy, you’re a valet driver with an honours degree from Berkeley, and Shaun can speak, like, four languages.
+SOO: Katy, you’re a valet driver with an honours degree from Berkeley, and Shaun can speak, like, four languages.
 
-You’ve always been the most talented people I know.
+SOO: You’ve always been the most talented people I know.
 
-I just don’t get why you’re scared
+SOO: I just don’t get why you’re scared
 
-to actually use it for something serious.
+SOO: to actually use it for something serious.
 
-Wow.
+SHAUN: Wow.
 
-You sound like my mom. You also… dress like her a little bit, too.
+KATY: You sound like my mom. You also… dress like her a little bit, too.
 
-Where’s this from, Talbots?
+KATY: Where’s this from, Talbots?
 
 (SOO LAUGHS)
 
-We’re not running from adulthood.
+KATY: We’re not running from adulthood.
 
-How is it running to have jobs that you actually like?
+KATY: How is it running to have jobs that you actually like?
 
-Yeah, that doesn’t even make any sense.
+SHAUN: Yeah, that doesn’t even make any sense.
 
-(FUMBLES) Did you think valet parking is easy?
+KATY: (FUMBLES) Did you think valet parking is easy?
 
-It’s like the most challenging job ever.
+SHAUN: It’s like the most challenging job ever.
 
-You need people skills, driving skills…
+SHAUN: You need people skills, driving skills…
 
 KATY: Soo can’t even parallel park.
 
@@ -324,23 +324,23 @@ KATY: Soo can’t even parallel park.
 
 (EXHALES HEAVILY)
 
-Well, it’s almost midnight. We got the early shift.
+SHAUN: Well, it’s almost midnight. We got the early shift.
 
-Should probably be responsible, go to sleep.
+SHAUN: Should probably be responsible, go to sleep.
 
-Yeah, we can be responsible. We can do that.
+KATY: Yeah, we can be responsible. We can do that.
 
-Or…
+KATY: Or…
 
 BOTH: (SINGING) ♪ Over, sideways and under on a… ♪
 
-♪ Take my horse to the old town road ♪
+BOTH: ♪ Take my horse to the old town road ♪
 
-♪ I’m gonna ♪
+BOTH: ♪ I’m gonna ♪
 
-♪ Close my eyes ♪
+BOTH: ♪ Close my eyes ♪
 
-♪ I don’t wanna… ♪
+BOTH: ♪ I don’t wanna… ♪
 
 (MUFFLED MUSIC PLAYING)
 
@@ -348,133 +348,133 @@ BOTH: (SINGING) ♪ Over, sideways and under on a… ♪
 
 (INDIE POP MUSIC PLAYING)
 
-Morning, Mrs Chen.
+SHAUN: Morning, Mrs Chen.
 
-She’s not ready yet.
+MRS CHEN: She’s not ready yet.
 
-Come have some joe while you wait.
+MRS CHEN: Come have some joe while you wait.
 
-Katy, Shaun’s here.
+MRS CHEN: Katy, Shaun’s here.
 
-Yeah, Mom, be there in a minute.
+KATY: Yeah, Mom, be there in a minute.
 
-Ruihua, you’re supposed to be helping your dad stock the shop.
+MRS CHEN: Ruihua, you’re supposed to be helping your dad stock the shop.
 
-Mom, I can’t work on an empty stomach, my legs get crampy.
+RUIHUA: Mom, I can’t work on an empty stomach, my legs get crampy.
 
-Maybe Shaun can help him instead of just showing up every day to eat our food.
+RUIHUA: Maybe Shaun can help him instead of just showing up every day to eat our food.
 
-I’m happy to help.
+SHAUN: I’m happy to help.
 
-No, it’s Ruihua’s job, let him do it.
+MRS CHEN: No, it’s Ruihua’s job, let him do it.
 
-Waipo.
+SHAUN: Waipo.
 
-(IN MANDARIN) That seat’s for Waigong.
+WAIPO: 这是外公的座位
 
-(IN ENGLISH) Oh, sorry.
+SHAUN: Oh, sorry.
 
-He’s getting all his favourite things this year for the Day of the Dead.
+WAIPO: He’s getting all his favourite things this year for the Day of the Dead.
 
-(IN ENGLISH) Are you sure that Waigong’s allowed to take
+SHAUN: Are you sure that Waigong’s allowed to take
 
-Funyuns and cigarettes back to the afterlife?
+SHAUN: Funyuns and cigarettes back to the afterlife?
 
-He can take anything.
+WAIPO: He can take anything.
 
-Last year I put a bottle of whisky on his grave…
+WAIPO: Last year I put a bottle of whisky on his grave…
 
-And it was gone the next morning.
+WAIPO: And it was gone the next morning.
 
 (SHAUN CHUCKLES)
 
-I know you kids think it’s silly.
+WAIPO: I know you kids think it’s silly.
 
-(IN ENGLISH) We don’t think it’s silly, Waipo.
+KATY:  We don’t think it’s silly, Waipo.
 
-We just know Waigong would’ve wanted you to move on and enjoy your life.
+KATY: We just know Waigong would’ve wanted you to move on and enjoy your life.
 
-“Moving on” is an American idea.
+MRS CHEN: “Moving on” is an American idea.
 
-You’re American, Mom! Don’t forget.
+KATY: You’re American, Mom! Don’t forget.
 
 MRS CHEN: Shaun, did my daughter apply to any new jobs this week?
 
-She really likes her job.
+SHAUN: She really likes her job.
 
-We both do.
+SHAUN: We both do.
 
 KATY: Mm-hmm.
 
-Waigong didn’t move here from Hunan so you could park cars for a living.
+MRS CHEN: Waigong didn’t move here from Hunan so you could park cars for a living.
 
-Well, on that note, I think we’re gonna miss our bus.
+KATY: Well, on that note, I think we’re gonna miss our bus.
 
 SHAUN: Mm.
 
 KATY: I’m sorry for my unacceptable job.
 
-And for staying out late last night, trying to enjoy my life.
+KATY: And for staying out late last night, trying to enjoy my life.
 
-But one day, I’ll make you proud, I promise.
+KATY: But one day, I’ll make you proud, I promise.
 
-I’m proud of you, sis.
+RUIHUA: I’m proud of you, sis.
 
-Parking cars is super hard.
+RUIHUA: Parking cars is super hard.
 
-Thanks, bro.
+KATY: Thanks, bro.
 
-Maybe one day you’ll pass your driver’s test, live the dream like me.
+KATY: Maybe one day you’ll pass your driver’s test, live the dream like me.
 
-Come on, Shaun, let’s go.
+KATY: Come on, Shaun, let’s go.
 
-(SPEAKING MANDARIN)
+SHAUN: 走了，外婆。
 
 (KISSES)
 
 (EXCLAIMS, SPEAKS MANDARIN)
 
-When are you two going to get married?
+WAIPO: 你们什么时候结婚？
 
-Waipo, we’re just friends.
+SHAUN: 外婆我们只是朋友。
 
 (SCOFFS)
 
-All right. Go, go, go.
+WAIPO: 好了。走，走。
 
-Look. Look at that. Look at that girl.
+KATY: Look. Look at that. Look at that girl.
 
-She’s writing a research paper on a bus.
+KATY: She’s writing a research paper on a bus.
 
 SHAUN: So?
 
-That is exactly the daughter my mom wishes came out of her vagina.
+KATY: That is exactly the daughter my mom wishes came out of her vagina.
 
-I’m sorry about her.
+SHAUN: I’m sorry about her.
 
-How’s it goin’?
+SHAUN: How’s it goin’?
 
-(IN MANDARIN) Give me the pendant, and no one gets hurt.
+GANG MEMBER: 项链给我，就没有人会受伤。
 
-KATY: (IN ENGLISH) Do you know this guy?
+KATY: Do you know this guy?
 
-I don’t know what you’re talking about, dude.
+SHAUN: I don’t know what you’re talking about, dude.
 
-Hey! Get off of me!
+SHAUN: Hey! Get off of me!
 
 KATY: Whoa.
 
-What is wrong with you, asshole?
+KATY: What is wrong with you, asshole?
 
-(IN MANDARIN) I don’t want any trouble.
+SHAUN: 我不想惹麻烦。
 
-Then give us the pendant!
+GANG MEMBER: 那就把项链交出来！
 
-KATY: (IN ENGLISH) You have the wrong guy!
+KATY: You have the wrong guy!
 
-Does he look like he can fight?
+KATY: Does he look like he can fight?
 
-Come on, bro! (GRUNTS)
+KATY: Come on, bro! (GRUNTS)
 
 (BREATHES HEAVILY)
 
@@ -482,7 +482,7 @@ Come on, bro! (GRUNTS)
 
 (HENCHMAN GROANS)
 
-You okay?
+SHAUN: You okay?
 
 (HENCHMEN GRUNTING)
 
@@ -490,27 +490,27 @@ You okay?
 
 (ALL GRUNTING)
 
-Yo, what up, y’all? It’s your boy Klev, comin’ at you live on the bus.
+KLEV: Yo, what up, y’all? It’s your boy Klev, comin’ at you live on the bus.
 
-I actually did take a little bit of martial arts as a youth, so I’m gonna try and grade this fight as we’re goin’.
+KLEV: I actually did take a little bit of martial arts as a youth, so I’m gonna try and grade this fight as we’re goin’.
 
 (PASSENGERS EXCLAIM)
 
 (LIGHT APPLAUSE)
 
-Holy shit.
+KATY: Holy shit.
 
-Who are you?
+KATY: Who are you?
 
 (TENSE MUSIC PLAYING)
 
-You got this, bro!
+KLEV: You got this, bro!
 
 (SCOFFS)
 
 (PASSENGERS GASPING)
 
-My bad.
+KLEV: My bad.
 
 (DUBSTEP MUSIC RESUMES)
 
@@ -526,15 +526,15 @@ My bad.
 
 (SHAUN GRUNTS)
 
-No, no, no!
+YUCHEN: No, no, no!
 
-Sorry.
+SHAUN: Sorry.
 
 (WHIMPERS)
 
-What the hell’s going on?
+KATY: What the hell’s going on?
 
-You really wanna talk about this now?
+SHAUN: You really wanna talk about this now?
 
 (DRIVER GASPING)
 
@@ -546,9 +546,9 @@ You really wanna talk about this now?
 
 KLEV: Bus driver is down.
 
-I’m not gonna handle this.
+KLEV: I’m not gonna handle this.
 
-Every time I’ve tried to drive a bus, I get yelled at.
+KLEV: Every time I’ve tried to drive a bus, I get yelled at.
 
 (BOTH GRUNTING)
 
@@ -558,7 +558,7 @@ Every time I’ve tried to drive a bus, I get yelled at.
 
 (CAR HORN HONKING)
 
-Go, you freak!
+KATY: Go, you freak!
 
 (PASSENGERS WHIMPERING)
 
@@ -578,15 +578,15 @@ Go, you freak!
 
 (GASPS)
 
-Open the door, please!
+SHAUN: Open the door, please!
 
 (GRUNTS, PANTING)
 
-The back is about to go.
+SHAUN: The back is about to go.
 
-On my signal, make a hard right.
+SHAUN: On my signal, make a hard right.
 
-What signal?
+KATY: What signal?
 
 (EXHALES DEEPLY)
 
@@ -598,15 +598,15 @@ What signal?
 
 (HENCHMAN GROANS)
 
-Everybody to the front now!
+SHAUN: Everybody to the front now!
 
 WOMAN: Go! Go, go, go.
 
-What’s up, y’all? What’s up, y’all? What’s up, y’all?
+KLEV: What’s up, y’all? What’s up, y’all? What’s up, y’all?
 
 (GRUNTS HEAVILY)
 
-You and your sister deserve what’s coming.
+RAZOR FIST: You and your sister deserve what’s coming.
 
 (SIGNAL DINGS)
 
@@ -614,9 +614,9 @@ You and your sister deserve what’s coming.
 
 (TYRES SCREECHING)
 
-Hold on, everybody!
+KATY: Hold on, everybody!
 
-Oh, God.
+SHAUN: Oh, God.
 
 (PASSENGERS SCREAMING)
 
@@ -624,7 +624,7 @@ Oh, God.
 
 (KATY YELLING)
 
-Oh, my God!
+KATY: Oh, my God!
 
 (BRAKES SQUEAL)
 
@@ -634,7 +634,7 @@ Oh, my God!
 
 KATY: Sorry. Heh.
 
-We make a good team.
+KATY: We make a good team.
 
 (PASSENGERS GROANING AND CHATTERING)
 
@@ -642,59 +642,59 @@ We make a good team.
 
 (SIREN WAILING)
 
-Shaun. Hey.
+KATY: Shaun. Hey.
 
-You need to tell me what the hell’s going on.
+KATY: You need to tell me what the hell’s going on.
 
-What are you doing? Where are you going?
+KATY: What are you doing? Where are you going?
 
-Macau.
+SHAUN: Macau.
 
-Macau?
+KATY: Macau?
 
-Those guys are going after my sister next, and I have to get to her first.
+SHAUN: Those guys are going after my sister next, and I have to get to her first.
 
-You have a sister?
+KATY: You have a sister?
 
-Look, I know this is confusing.
+SHAUN: Look, I know this is confusing.
 
-I’ll explain it when I get back, I promise.
+SHAUN: I’ll explain it when I get back, I promise.
 
-No, no.
+KATY: No, no.
 
-Hell no, dude.
+KATY: Hell no, dude.
 
-This is bullshit!
+KATY: This is bullshit!
 
-I have been by your side for half your life.
+KATY: I have been by your side for half your life.
 
-I get there are things you never wanted to talk about, and I never wanted to push.
+KATY: I get there are things you never wanted to talk about, and I never wanted to push.
 
-But a guy with a freaking machete for an arm just chopped our bus in half, Shaun!
+KATY: But a guy with a freaking machete for an arm just chopped our bus in half, Shaun!
 
-Who the hell are you?
+KATY: Who the hell are you?
 
-(SIGHS)
+(SHANG-CHI SIGHS)
 
-My sister sent me this a few months ago.
+SHAUN: My sister sent me this a few months ago.
 
-I think it’s the address of where she’s staying.
+SHAUN: I think it’s the address of where she’s staying.
 
-Those guys back there were sent by my dad.
+SHAUN: Those guys back there were sent by my dad.
 
-What?
+KATY: What?
 
-If they hurt her…
+SHAUN: If they hurt her…
 
-I’m sorry, but I have to go.
+SHAUN: I’m sorry, but I have to go.
 
-Fine.
+KATY: Fine.
 
-You can explain on the plane.
+KATY: You can explain on the plane.
 
-What? No, Katy, you can’t just…
+SHAUN: What? No, Katy, you can’t just…
 
-You can explain on the plane, Shaun!
+KATY: You can explain on the plane, Shaun!
 
 (MEN GRUNTING)
 
@@ -722,111 +722,111 @@ SHAUN: From sunup to sundown, I was taught every possible way to kill a man.
 
 (ALL GRUNTING)
 
-By the time I was 14, I could barely remember what life was like before she died.
+SHAUN: By the time I was 14, I could barely remember what life was like before she died.
 
-That’s how old I was when he sent me on my first assignment.
+SHAUN: That’s how old I was when he sent me on my first assignment.
 
-I was willing to do anything he wanted.
+SHAUN: I was willing to do anything he wanted.
 
-If he asked me to burn the world down, I would’ve asked him…
+SHAUN: If he asked me to burn the world down, I would’ve asked him…
 
 FLIGHT ATTENDANT: Beef or vegetarian?
 
-We’re all out of the chicken, so I can only offer you beef or vegetarian?
+FLIGHT ATTENDANT: We’re all out of the chicken, so I can only offer you beef or vegetarian?
 
 BOTH: Um…
 
-Vegetarian would be great.
+KATY: Vegetarian would be great.
 
-Yeah, same.
+SHAUN: Yeah, same.
 
 FLIGHT ATTENDANT: Okay.
 
-Thank you.
+FLIGHT ATTENDANT: Thank you.
 
-So…
+KATY: So…
 
-Oh, we’re out of the vegetarian too.
+FLIGHT ATTENDANT: Oh, we’re out of the vegetarian too.
 
-Now we only have beef.
+FLIGHT ATTENDANT: Now we only have beef.
 
-Beef. ‘Cause that’s all you have, right?
+KATY: Beef. ‘Cause that’s all you have, right?
 
-Okay, you’ll have the beef.
+FLIGHT ATTENDANT: Okay, you’ll have the beef.
 
-Yes.
+KATY: Yes.
 
-And…
+FLIGHT ATTENDANT: And…
 
-Beef.
+SHAUN: Beef.
 
-And the beef.
+KATY: And the beef.
 
-Two beefs.
+FLIGHT ATTENDANT: Two beefs.
 
 (KATY SIGHS)
 
-Did you go through with it?
+KATY: Did you go through with it?
 
-I knew that I couldn’t go back to him, so I just… ran.
+SHAUN: I knew that I couldn’t go back to him, so I just… ran.
 
-I know this is a lot to dump on you.
+SHAUN: I know this is a lot to dump on you.
 
-I’m sorry about your mom.
+KATY: I’m sorry about your mom.
 
-I should also probably mention that my name’s not technically Shaun.
+SHAUN: I should also probably mention that my name’s not technically Shaun.
 
-What?
+KATY: What?
 
-What is it?
+KATY: What is it?
 
-It’s Shang-Chi.
+SHANG-CHI: It’s Shang-Chi.
 
-Shaun-Chi.
+KATY: Shaun-Chi.
 
-No. Shang-Chi.
+SHANG-CHI: No. Shang-Chi.
 
-Shaun-Chi.
+KATY: Shaun-Chi.
 
-Shang.
+SHANG-CHI: Shang.
 
-Shaun.
+KATY: Shaun.
 
-Shang.
+SHANG-CHI: Shang.
 
-Shan.
+KATY: Shan.
 
-S-H-A-N-G. Shang.
+SHANG-CHI: S-H-A-N-G. Shang.
 
-Shang?
+KATY: Shang?
 
-Yeah.
+SHANG-CHI: Yeah.
 
-You changed your name from Shang to Shaun?
+KATY: You changed your name from Shang to Shaun?
 
-Yeah, I don’t… Yeah.
+SHANG-CHI: Yeah, I don’t… Yeah.
 
-I wonder how your father found you.
+KATY: I wonder how your father found you.
 
-Okay, I was 15 years old. All right?
+SHANG-CHI: Okay, I was 15 years old. All right?
 
-What is your name change logic?
+KATY: What is your name change logic?
 
-You’re going into hiding.
+KATY: You’re going into hiding.
 
-Okay.
+SHANG-CHI: Okay.
 
-And your name is Michael, you go on and change it to Mishael.
+KATY: And your name is Michael, you go on and change it to Mishael.
 
-That’s not what happened.
+SHANG-CHI: That’s not what happened.
 
-It’s like, “Hi, my name’s Gina.
+KATY: It’s like, “Hi, my name’s Gina.
 
-“I’m gonna go into hiding. My new name’s Gina.”
+KATY: “I’m gonna go into hiding. My new name’s Gina.”
 
-(MOUTHING) Can’t hear you. I’m sorry.
+SHANG-CHI: (MOUTHING) Can’t hear you. I’m sorry.
 
-Yeah, okay. Oh, yeah, you can hear me.
+KATY: Yeah, okay. Oh, yeah, you can hear me.
 
 (IN THE DARK BY SWAE LEE PLAYING)
 
@@ -836,89 +836,89 @@ Yeah, okay. Oh, yeah, you can hear me.
 
 (IN THE DARK BY SWAE LEE CONTINUES)
 
-(IN MANDARIN) Sign here to get in.
+CHINESE BOUNCER: 签字。
 
-I’m looking for my sister, Xu Xialing.
+SHANG-CHI: 我在找我妹，徐夏灵。
 
-Have you heard of her?
+SHANG-CHI: 你听说过她吗？
 
-This is the address she gave me.
+SHANG-CHI: 这里是她给我的地址。
 
-(IN ENGLISH) Okay.
+SHANG-CHI: Okay.
 
-Seems like a nice fella.
+KATY: Seems like a nice fella.
 
-And this elevator is definitely up to code.
+KATY: And this elevator is definitely up to code.
 
-There’s absolutely no chance of it just falling off the side of the building…
+KATY: There’s absolutely no chance of it just falling off the side of the building…
 
 (ELEVATOR THUDS)
 
 (KATY GRUNTS)
 
-Bus Boy!
+JON JON: Bus Boy!
 
-Uh…
+SHANG-CHI: Uh…
 
 (SPEAKING MANDARIN)
 
-Two million views in three days, bro!
+JON JON: 我靠，你三天就有200万浏览量！
 
-KATY: (IN ENGLISH) Damn, dude.
+KATY: Damn, dude.
 
-Oh, no.
+SHANG-CHI: Oh, no.
 
 (GASPS, SPEAKING MANDARIN)
 
-And you’re the driver!
+JON JON: 司机来了！
 
-(IN ENGLISH) Oh, my Chinese sucks.
+KATY: (IN ENGLISH) Oh, my Chinese sucks.
 
-Oh, all good.
+JON JON: Oh, all good.
 
-I speak A-B-C.
+JON JON: I speak A-B-C.
 
-Oh, great.
+KATY: Oh, great.
 
-I’m Jon Jon.
+JON JON: I’m Jon Jon.
 
-Jon Jon.
+KATY: Jon Jon.
 
-Welcome to the Golden Daggers Club.
+JON JON: Welcome to the Golden Daggers Club.
 
-(SIGHS) Okay, let’s get you ready to fight.
+JON JON: (SIGHS) Okay, let’s get you ready to fight.
 
-Wait. What?
+SHANG-CHI: Wait. What?
 
-We’re a multi-platform global operation.
+JON JON: We’re a multi-platform global operation.
 
-Every fight livestreamed on the dark web.
+JON JON: Every fight livestreamed on the dark web.
 
-Thousands of viewers placing bets as we speak.
+JON JON: Thousands of viewers placing bets as we speak.
 
-This is gonna take your brand to a whole new level.
+JON JON: This is gonna take your brand to a whole new level.
 
-Think there’s been some sort of confusion.
+SHANG-CHI: Think there’s been some sort of confusion.
 
-I like your spike face.
+KATY: I like your spike face.
 
-Thanks!
+SPIKE FACE: Thanks!
 
-Usually, you gotta fight your way to centre ring, but a viral star like you?
+JON JON: Usually, you gotta fight your way to centre ring, but a viral star like you?
 
-Front of line, baby.
+JON JON: Front of line, baby.
 
-I’m not here to fight anybody. Okay?
+SHANG-CHI: I’m not here to fight anybody. Okay?
 
-I’m looking for my sister, Xu Xialing.
+SHANG-CHI: I’m looking for my sister, Xu Xialing.
 
 (CROWD EXCLAIMS)
 
 (FIGHTER GROANING)
 
-Never heard of her.
+JON JON: Never heard of her.
 
-We just lost a fighter at the last minute, so you get the next slot.
+JON JON: We just lost a fighter at the last minute, so you get the next slot.
 
 (CROWD CHEERING)
 
@@ -928,21 +928,21 @@ We just lost a fighter at the last minute, so you get the next slot.
 
 (BLADE SLICES)
 
-Nice one, Helen.
+JON JON: Nice one, Helen.
 
-Is he gonna be fighting in one of these?
+KATY: Is he gonna be fighting in one of these?
 
-Oh, no, no, no. These are like low-level fights.
+JON JON: Oh, no, no, no. These are like low-level fights.
 
-You’re gonna be fighting up there.
+JON JON: You’re gonna be fighting up there.
 
 (CROWD CHEERING)
 
-That hurt, Emil.
+WONG: That hurt, Emil.
 
 (EMIL GROWLS)
 
-You want me to show you how it feels?
+WONG: You want me to show you how it feels?
 
 (ROARS)
 
@@ -950,141 +950,143 @@ You want me to show you how it feels?
 
 CROWD: (CHANTING) Wong! Wong! Wong!
 
-Wong! Wong! Wong!
+CROWD: Wong! Wong! Wong!
 
-Go, Wong!
+JON JON: Go, Wong!
 
-I always bet on Asian.
+JON JON: I always bet on Asian.
 
-Oh, my God.
+KATY: Oh, my God.
 
-Yeah, look, I’m not going up there, okay?
+SHANG-CHI: Yeah, look, I’m not going up there, okay?
 
-I’m just trying to…
+SHANG-CHI: I’m just trying to…
 
-Whoa, whoa, whoa.
+JON JON: Whoa, whoa, whoa.
 
-It’s too late to back out now.
+JON JON: It’s too late to back out now.
 
-You already committed, bro.
+JON JON: You already committed, bro.
 
 SHANG-CHI: What?
 
 JON JON: You signed the contract, remember?
 
-Your name’s on the roster.
+JON JON: Your name’s on the roster.
 
-The bets are piling in.
+JON JON: The bets are piling in.
 
-Really? What’s our cut?
+KATY: Really? What’s our cut?
 
-Oh, it’s huge.
+JON JON: Oh, it’s huge.
 
-It doesn’t matter.
+SHANG-CHI: It doesn’t matter.
 
-It matters.
+KATY: It matters.
 
-Dude, I saw you fight five assassins and a giant Romanian with a razor for an arm on a moving bus.
+JON JON: Dude, I saw you fight five assassins and a giant Romanian with a razor for an arm on a moving bus.
 
-This is just one guy.
+JON JON: This is just one guy.
 
-Just do it. Then we all get paid, and then I’ll help you find whoever you’re looking for.
+JON JON: Just do it. Then we all get paid, and then I’ll help you find whoever you’re looking for.
 
-Come on. You got this.
+KATY: Come on. You got this.
 
 JON JON: You got this.
 
-Don’t be nervous.
+KATY: Don’t be nervous.
 
-Thank you.
+SHANG-CHI: Thank you.
 
 KATY: Yeah.
 
-Yeah.
+SHANG-CHI: Yeah.
 
 (MEN GRUNTING)
 
 (EMIL GROANING)
 
-How’s the jaw?
+WONG: How’s the jaw?
 
 (EMIL GRUNTS)
 
-Maybe you’ll start controlling those punches like we practised?
+WONG: Maybe you’ll start controlling those punches like we practised?
 
 (EMIL GRUNTING)
 
-Love that guy.
+JON JON: Love that guy.
 
-Now take your shirt off.
+JON JON: Now take your shirt off.
 
 (BELL CLANGS)
 
 JON JON: Ladies and gentlemen, the fight we’ve all been waiting for.
 
-The incredible viral sensation, all the way from San Francisco, USA, it’s Bus Boy!
+JON JON: The incredible viral sensation, all the way from San Francisco, USA, it’s Bus Boy!
 
 (SCATTERED CHEERING)
 
-What happened to your shirt?
+KATY: What happened to your shirt?
 
 (TRADITIONAL DRUM MUSIC PLAYING ON SPEAKER)
 
 JON JON: And his opponent for tonight, it’s Macau’s own fearsome killer…
 
-Xu Xialing!
+JON JON: Xu Xialing!
 
 (CROWD CHEERING LOUDLY)
 
-(IN MANDARIN) Sister.
+SHANG-CHI: 妹妹。
 
 (GRUNTS)
 
-(IN ENGLISH) Wait, wait!
+SHANG-CHI: Wait, wait!
 
-(IN MANDARIN) What are you doing?
+SHANG-CHI: 你怎么了你？
 
 (BOTH GRUNTING)
 
-I know you’re upset.
+SHANG-CHI: 我知道你在生我的气。
 
-But can you hear me out?
+SHANG-CHI: 但是我有急事和你说？
 
-We don’t have time for this.
+SHANG-CHI: 我们没有时间打。
 
-JON JON: (IN ENGLISH) Ooh, that’s gotta hurt.
+JON JON: Ooh, that’s gotta hurt.
 
-(IN MANDARIN) Can you please stop hitting me?
+SHANG-CHI: 你能不能不打我？
 
-Stop it! I’m trying to help you!
+SHANG-CHI: 住手!我是来帮你的!
 
-Dad’s coming for you.
+SHANG-CHI: 爸要来找你。
 
-I’m not fighting you.
+SHANG-CHI: 我不会再跟你打。
 
-You shouldn’t have come back.
+XIALING: 你不应该回来。
 
-YOUNG XIALING: Sometimes when I’m doing my forms…
+TEEN XIALING: 有的时候我在练功...
 
-I close my eyes, and it’s like I can feel her.
+TEEN XIALING: 我闭上我的眼睛。
 
-Do you ever feel like that?
+TEEN XIALING: 我感觉她就在我身后？
 
-No.
+TEEN SHANG-CHI: 你有。
 
-(IN ENGLISH) I know what you’re going there to do.
+TEEN XIALING: I know what you’re going there to do.
 
-I don’t know what he’s telling you, but Mom… Mom’s dead.
+TEEN XIALING: I don’t know what he’s telling you, but Mom…
+
+TEEN SHANG-CHI: Mom’s dead.
 
 (SNIFFLES)
 
 (HELICOPTER WHIRRING)
 
-(IN MANDARIN) Please don’t leave me here.
+TEEN XIALING: 不要把我扔在这。
 
 (SIGHS SOFTLY)
 
-I’ll be back in three days.
+TEEN SHANG-CHI: 灵灵，我三天以后就回来。
 
 (SIGHING)
 
@@ -1094,7 +1096,7 @@ I’ll be back in three days.
 
 JON JON: (IN ENGLISH) Xu Xialing, you’re amazing!
 
-We love you, Xu Xialing! Whoo!
+JON JON: We love you, Xu Xialing! Whoo!
 
 (GROANS)
 
@@ -1102,61 +1104,61 @@ We love you, Xu Xialing! Whoo!
 
 (CROWD CONTINUES CHEERING)
 
-(IN MANDARIN) You run this place?
+SHANG-CHI: 这地方归你管？
 
-I own it.
+XIALING: 这地方归我。
 
 (DOOR BEEPS)
 
-(IN ENGLISH) Where’d you get all that money?
+SHANG-CHI: Where’d you get all that money?
 
-Did you bet against me?
+SHANG-CHI: Did you bet against me?
 
-No.
+KATY: No.
 
-Hi, Xialing. I’m Katy.
+KATY: Hi, Xialing. I’m Katy.
 
-You’re, like, such a badass.
+KATY: You’re, like, such a badass.
 
-Everything that you do is, like, so cool.
+KATY: Everything that you do is, like, so cool.
 
-That was really cool.
+KATY: That was really cool.
 
-I like your pants.
+XIALING: I like your pants.
 
-Thank you. Thanks. Yeah.
+KATY: Thank you. Thanks. Yeah.
 
-What do you want?
+XIALING: What do you want?
 
-The Ten Rings ambushed us in San Francisco.
+SHANG-CHI: The Ten Rings ambushed us in San Francisco.
 
 XIALING: I saw the video.
 
-They took my pendant.
+SHANG-CHI: They took my pendant.
 
-They’re gonna come for yours next.
+SHANG-CHI: They’re gonna come for yours next.
 
-I don’t know what he wants with them, but we both know it can’t be good.
+SHANG-CHI: I don’t know what he wants with them, but we both know it can’t be good.
 
-You know what he said to me when he left?
+XIALING: You know what he said to me when he left?
 
-“I’ll be back in three days.”
+XIALING: “I’ll be back in three days.”
 
-And after three days, I went to our mom’s shrine and waited.
+XIALING: And after three days, I went to our mom’s shrine and waited.
 
-Three days turned into a week, a week turned to a month, and a month turned to six years.
+XIALING: Three days turned into a week, a week turned to a month, and a month turned to six years.
 
-That’s how long it took me to realise I didn’t need him any more.
+XIALING: That’s how long it took me to realise I didn’t need him any more.
 
-I built this place on my own.
+XIALING: I built this place on my own.
 
-I didn’t need you then, and I don’t need you now.
+XIALING: I didn’t need you then, and I don’t need you now.
 
-Then why would you send me the postcard?
+SHANG-CHI: Then why would you send me the postcard?
 
 XIALING: What postcard?
 
-I didn’t send you this.
+XIALING: I didn’t send you this.
 
 (DISTANT EXPLOSION)
 
@@ -1164,13 +1166,13 @@ I didn’t send you this.
 
 (ALARM BLARING)
 
-Is there a back exit?
+SHANG-CHI: Is there a back exit?
 
-Shaun.
+KATY: Shaun.
 
 SHANG-CHI: Hey. Hey! Hey, open up!
 
-She’s gone, dude.
+KATY: She’s gone, dude.
 
 (MUFFLED EXPLOSION)
 
@@ -1180,35 +1182,35 @@ She’s gone, dude.
 
 (GRUNTS)
 
-What do we do?
+KATY: What do we do?
 
-What do we do?
+KATY: What do we do?
 
-Uh…
+SHANG-CHI: Uh…
 
 (GRUNTS)
 
-Come on!
+SHANG-CHI: Come on!
 
-Oh, hell no. Screw you! I’m not doing this.
+KATY: Oh, hell no. Screw you! I’m not doing this.
 
-If we make it to the elevator, we can hop in on the next floor.
+SHANG-CHI: If we make it to the elevator, we can hop in on the next floor.
 
 (MUFFLED EXPLOSION)
 
 (CROWD SCREAMING)
 
-Katy, we’re out of options. We have to go now.
+SHANG-CHI: Katy, we’re out of options. We have to go now.
 
-One, two, three.
+SHANG-CHI: One, two, three.
 
 KATY: Whoa.
 
 SHANG-CHI: Just head straight for that elevator.
 
-You got this.
+SHANG-CHI: You got this.
 
-I’ll buy you some time. Just keep going.
+SHANG-CHI: I’ll buy you some time. Just keep going.
 
 (DRAMATIC MUSIC PLAYING)
 
@@ -1224,19 +1226,19 @@ I’ll buy you some time. Just keep going.
 
 (GRUNTS)
 
-(SINGING HOTEL CALIFORNIA BY EAGLES) ♪ On a dark desert highway ♪
+KATY: (SINGING HOTEL CALIFORNIA BY EAGLES) ♪ On a dark desert highway ♪
 
-♪ Cool wind in my hair ♪
+KATY: ♪ Cool wind in my hair ♪
 
 (YELLING)
 
-Shaun!
+KATY: Shaun!
 
 (FIGHTER 3 SCREAMING)
 
-Shaun! Shaun!
+KATY: Shaun! Shaun!
 
-Oh, my God! Ohhh!
+KATY: Oh, my God! Ohhh!
 
 (ALL GRUNTING)
 
@@ -1250,13 +1252,13 @@ SHANG-CHI: Hang on.
 
 (KATY YELPING)
 
-(STRAINING) Gotcha.
+SHANG-CHI: (STRAINING) Gotcha.
 
-Shaun!
+KATY: Shaun!
 
 (GROANS)
 
-Katy!
+SHANG-CHI: Katy!
 
 (KATY GRUNTING)
 
@@ -1266,19 +1268,19 @@ Katy!
 
 (ALL GRUNTING)
 
-(IN MANDARIN) You left us for dead!
+SHANG-CHI: 你把我们丢在这里说走就走！
 
-Now you know how it feels.
+XIALING: 现在你知道什么滋味了。
 
 (FIGHTER 5 SCREAMS)
 
 (GRUNTS)
 
-(IN ENGLISH) What does he want with the pendant…
+SHANG-CHI: What does he want with the pendant…
 
 (SCREAMING)
 
-Did America make you soft?
+XIALING: Did America make you soft?
 
 (GLASS THUDS)
 
@@ -1308,13 +1310,13 @@ XIALING: He has the pendant!
 
 (GRUNTS)
 
-I told my men they wouldn’t be able to kill you if they tried.
+WENWU: I told my men they wouldn’t be able to kill you if they tried.
 
-Glad I was right.
+WENWU: Glad I was right.
 
-(IN MANDARIN) I’ve missed you, my son.
+WENWU: 我很想你。
 
-(IN ENGLISH) Let’s go home.
+WENWU: Let’s go home.
 
 (SOMBRE ORCHESTRAL MUSIC PLAYING)
 
@@ -1322,467 +1324,467 @@ Glad I was right.
 
 (DRAMATIC MUSIC PLAYING)
 
-My son is home.
+WENWU: My son is home.
 
-Take the girls to their room.
+WENWU: Take the girls to their room.
 
-I’ve seen some really scary stuff this week, but your dad’s on, like, a whole ‘nother level.
+KATY: I’ve seen some really scary stuff this week, but your dad’s on, like, a whole ‘nother level.
 
-Is he gonna kill us?
+KATY: Is he gonna kill us?
 
-Just nod. Don’t talk. He’ll forget you’re there.
+XIALING: Just nod. Don’t talk. He’ll forget you’re there.
 
-That’s how I survived.
+XIALING: That’s how I survived.
 
-He always treat you like that?
+KATY: He always treat you like that?
 
-Only after my mom died.
+XIALING: Only after my mom died.
 
-He said he couldn’t look at me because I reminded him of her.
+XIALING: He said he couldn’t look at me because I reminded him of her.
 
-I wasn’t allowed to train with the boys.
+XIALING: I wasn’t allowed to train with the boys.
 
-But I watched everything they did and taught myself to do it better.
+XIALING: But I watched everything they did and taught myself to do it better.
 
-When did you leave?
+KATY: When did you leave?
 
-I ran away when I was 16.
+XIALING: I ran away when I was 16.
 
-As soon as I knew my brother wasn’t coming back.
+XIALING: As soon as I knew my brother wasn’t coming back.
 
-You started an underground fight ring in Macau when you were 16 years old?
+KATY: You started an underground fight ring in Macau when you were 16 years old?
 
-If my dad won’t let me into his empire, I’m gonna build my own.
+XIALING: If my dad won’t let me into his empire, I’m gonna build my own.
 
-Hell yeah.
+KATY: Hell yeah.
 
 (SENTIMENTAL MUSIC PLAYING)
 
 (GRUNTING)
 
-MAN: Shang-Chi.
+WENWU: Shang-Chi.
 
-(IN MANDARIN) That’s enough.
+WENWU: 可以了。
 
-(IN ENGLISH) Have you been practicing your English?
+WENWU: Have you been practicing your English?
 
-Yes.
+YOUNG SHANG-CHI: Yes.
 
-You have to strengthen your mind along with your body.
+WENWU: You have to strengthen your mind along with your body.
 
-If you want them to be yours one day, you have to show me you’re strong enough to carry them.
+WENWU: If you want them to be yours one day, you have to show me you’re strong enough to carry them.
 
 (GRUNTING)
 
 (SIGHS)
 
-How did you find me?
+SHANG-CHI: How did you find me?
 
-I always know where my children are.
+WENWU: I always know where my children are.
 
-I gave you 10 years to live your life, and where did it get you?
+WENWU: I gave you 10 years to live your life, and where did it get you?
 
 (SHANG-CHI SIGHS)
 
-Now it’s time for you to take your place by my side.
+WENWU: Now it’s time for you to take your place by my side.
 
-That’s not gonna happen.
+SHANG-CHI: That’s not gonna happen.
 
-MAN: American girl.
+WENWU: American girl.
 
-Her name is Katy.
+SHANG-CHI: Her name is Katy.
 
-What is your Chinese name?
+WENWU: What is your Chinese name?
 
-Ruiwen.
+KATY: Ruiwen.
 
-Names are sacred, Ruiwen.
+WENWU: Names are sacred, Ruiwen.
 
-They connect us not only to ourselves, but to everyone who came before.
+WENWU: They connect us not only to ourselves, but to everyone who came before.
 
-A funny story.
+WENWU: A funny story.
 
-Some years ago, a terrorist from America needed a boogeyman to bring your country to its knees.
+WENWU: Some years ago, a terrorist from America needed a boogeyman to bring your country to its knees.
 
-So, he appropriated The Ten Rings.
+WENWU: So, he appropriated The Ten Rings.
 
-My Ten Rings.
+WENWU: My Ten Rings.
 
-But because he didn’t know my actual name, he invented a new one.
+WENWU: But because he didn’t know my actual name, he invented a new one.
 
-Do you know the name he chose?
+WENWU: Do you know the name he chose?
 
-The Mandarin.
+WENWU: The Mandarin.
 
-He gave his figurehead the name of a chicken dish.
+WENWU: He gave his figurehead the name of a chicken dish.
 
-And it worked.
+WENWU: And it worked.
 
-America was terrified.
+WENWU: America was terrified.
 
-Of an orange.
+WENWU: Of an orange.
 
 (CHUCKLES NERVOUSLY)
 
-The truth is, I’ve had many names throughout my life.
+WENWU: The truth is, I’ve had many names throughout my life.
 
-The Warrior King, Master Khan, the most dangerous man on Earth.
+WENWU: The Warrior King, Master Khan, the most dangerous man on Earth.
 
-For years, I thought that was all I was meant to be.
+WENWU: For years, I thought that was all I was meant to be.
 
-But when I met their mother, everything changed.
+WENWU: But when I met their mother, everything changed.
 
 (SOFT TRADITIONAL MUSIC PLAYING)
 
 (CHUCKLES SOFTLY)
 
-She showed me a part of myself I didn’t know was there.
+WENWU: She showed me a part of myself I didn’t know was there.
 
-It was like I was seeing the world for the first time.
+WENWU: It was like I was seeing the world for the first time.
 
 (CONVERSING IN MANDARIN)
 
-She gave up everything so we could be together.
+WENWU: She gave up everything so we could be together.
 
-And so did I.
+WENWU: And so did I.
 
 (LI GIGGLES)
 
 (CAMERA SHUTTER CLICKING)
 
-(IN MANDARIN) You know who’s in there?
+LI: 这是谁呀?
 
-Say, “Hello, little sister!”
+LI: 说『你好妹妹!』
 
 (LI GIGGLES)
 
-MANDARIN: After all those years, I finally found something worth growing old for.
+WENWU: After all those years, I finally found something worth growing old for.
 
-My real name is Wenwu.
+WENWU: My real name is Wenwu.
 
-She was the only one who called me that.
+WENWU: She was the only one who called me that.
 
-And when she died… I was lost for many years.
+WENWU: And when she died… I was lost for many years.
 
-But I’m not lost any more.
+WENWU: But I’m not lost any more.
 
-When you children ran away, I was so desperate to connect with your mother, I threw myself back into the studies of her village.
+WENWU: When you children ran away, I was so desperate to connect with your mother, I threw myself back into the studies of her village.
 
-The legendary Ta Lo.
+WENWU: The legendary Ta Lo.
 
-I wasn’t able to find the secret path to the village entrance, but I did find what they are hiding.
+WENWU: I wasn’t able to find the secret path to the village entrance, but I did find what they are hiding.
 
-There’s a gate deep in their mountains.
+WENWU: There’s a gate deep in their mountains.
 
-Your mother is waiting for us there.
+WENWU: Your mother is waiting for us there.
 
-I know this is a lot.
+WENWU: I know this is a lot.
 
-I might not have believed it if she didn’t tell me herself.
+WENWU: I might not have believed it if she didn’t tell me herself.
 
-What are you talking about?
+XIALING: What are you talking about?
 
-I was sitting right here in this seat, deep in my research… and she spoke to me.
+WENWU: I was sitting right here in this seat, deep in my research… and she spoke to me.
 
-It was like she was standing in this room.
+WENWU: It was like she was standing in this room.
 
-I could feel her breath on my cheek and her hand on my back.
+WENWU: I could feel her breath on my cheek and her hand on my back.
 
-She told me she needs my help.
+WENWU: She told me she needs my help.
 
-To do what?
+SHANG-CHI: To do what?
 
-To save her from her people.
+WENWU: To save her from her people.
 
-After we fell in love, your mother wanted us to live in Ta Lo.
+WENWU: After we fell in love, your mother wanted us to live in Ta Lo.
 
-She asked permission from the elders, and they refused.
+WENWU: She asked permission from the elders, and they refused.
 
-They said I wasn’t worthy.
+WENWU: They said I wasn’t worthy.
 
-She would still be with us.
+WENWU: She would still be with us.
 
-We would all be living there together.
+WENWU: We would all be living there together.
 
-Ta Lo did this to us.
+WENWU: Ta Lo did this to us.
 
-They locked her behind that gate to punish her.
+WENWU: They locked her behind that gate to punish her.
 
-Don’t you see?
+WENWU: Don’t you see?
 
-She’s leaving clues for us.
+WENWU: She’s leaving clues for us.
 
-She wants us to find her and bring her home, so we can be a family again.
+WENWU: She wants us to find her and bring her home, so we can be a family again.
 
-Dad, Mom’s gone.
+SHANG-CHI: Dad, Mom’s gone.
 
-She’s not talking to you from behind a gate, and she’s not leaving any clues for us.
+SHANG-CHI: She’s not talking to you from behind a gate, and she’s not leaving any clues for us.
 
-Then what are these?
+WENWU: Then what are these?
 
 (MYSTICAL MUSIC PLAYING)
 
 (SOFT WHOOSHING)
 
-The passage to Ta Lo is guarded by a moving maze.
+WENWU: The passage to Ta Lo is guarded by a moving maze.
 
-But there’s a direct path through the forest that only opens once a year on Qingming Jie.
+WENWU: But there’s a direct path through the forest that only opens once a year on Qingming Jie.
 
-To get through, you need to know the route and the exact time it opens.
+WENWU: To get through, you need to know the route and the exact time it opens.
 
-Now I know both.
+WENWU: Now I know both.
 
-Three days from now, we will rescue my wife from her prison and bring her home.
+WENWU: Three days from now, we will rescue my wife from her prison and bring her home.
 
 (ALL RESPOND IN MANDARIN)
 
-This is why you’re here.
+WENWU: This is why you’re here.
 
-To help me bring her back to us.
+WENWU: To help me bring her back to us.
 
-And what happens if they don’t let you open the gate?
+XIALING: And what happens if they don’t let you open the gate?
 
-We’ll burn the village to the ground.
+WENWU: We’ll burn the village to the ground.
 
-What?
+SHANG-CHI: What?
 
-You can’t just march into our mom’s village with this bullshit.
+SHANG-CHI: You can’t just march into our mom’s village with this bullshit.
 
-I mean, do you have any idea how insane…
+SHANG-CHI: I mean, do you have any idea how insane…
 
 (SHANG-CHI GRUNTING)
 
 (GASPS)
 
-Hey!
+KATY: Hey!
 
 (ELECTRICITY BUZZING)
 
-Where are you taking me?
+KATY:Where are you taking me?
 
-(IN MANDARIN) When will you stop pretending?
+WENWU: 你还要装多久？
 
-(IN ENGLISH) Lock them up.
+WENWU: Lock them up.
 
-LI: (IN MANDARIN) It’s okay, my dear.
+LI: 没关系。
 
-We’re all going to be together soon.
+LI: 咱们一家人很快就能在一起了。
 
-(IN ENGLISH) So, um, pretty confused right now, because, uh, initially I thought your dad should definitely see a therapist for his delusions, but then that dragon vomited a magical water map, and now I have no idea what’s real.
+KATY: So, um, pretty confused right now, because, uh, initially I thought your dad should definitely see a therapist for his delusions, but then that dragon vomited a magical water map, and now I have no idea what’s real.
 
-Is what he said about your mom’s village true?
+KATY: Is what he said about your mom’s village true?
 
 (SIGHS)
 
-She used to tell us stories about Ta Lo when we were kids.
+SHANG-CHI: She used to tell us stories about Ta Lo when we were kids.
 
-A village in another dimension full of magical creatures.
+SHANG-CHI: A village in another dimension full of magical creatures.
 
-I thought it was just a fairy tale.
+SHANG-CHI: I thought it was just a fairy tale.
 
-What if Dad’s right?
+XIALING: What if Dad’s right?
 
-About Mom being locked behind a gate by her own people?
+SHANG-CHI: About Mom being locked behind a gate by her own people?
 
-Crazier things have turned out to be true.
+XIALING: Crazier things have turned out to be true.
 
-Look, I don’t know what the hell is going on, but if we don’t find a way to get to Ta Lo before him, he’s gonna destroy everything that’s left of our family.
+SHANG-CHI: Look, I don’t know what the hell is going on, but if we don’t find a way to get to Ta Lo before him, he’s gonna destroy everything that’s left of our family.
 
-This family was destroyed a long time ago.
+XIALING: This family was destroyed a long time ago.
 
 (MUFFLED MAN GROANING)
 
-The hell was that?
+SHANG-CHI: The hell was that?
 
 (GROANING AND GIBBERING)
 
-Oh.
+TREVOR: Oh.
 
-(FUMBLES) You’re going toward that noise?
+KATY: (FUMBLES) You’re going toward that noise?
 
 (MAN CONTINUES GROANING AND GIBBERING)
 
 (METAL STRIKING)
 
-“Wake Duncan with thy knocking.
+TREVOR: “Wake Duncan with thy knocking.
 
-“Oh, I would’st though could’st.
+TREVOR: “Oh, I would’st though could’st.
 
-“My deed ’twere best not…”
+TREVOR: “My deed ’twere best not…”
 
-Oh, hello, loves.
+TREVOR: Oh, hello, loves.
 
-What year is it?
+TREVOR: What year is it?
 
-Who are you?
+KATY: Who are you?
 
-Trevor? Slattery?
+TREVOR: Trevor? Slattery?
 
-The actor from Liverpool?
+TREVOR: The actor from Liverpool?
 
-Wait.
+TREVOR: Wait.
 
-Are you the governor’s kids?
+TREVOR: Are you the governor’s kids?
 
-I’ve been preparing a monologue for your homecoming dinner.
+TREVOR: I’ve been preparing a monologue for your homecoming dinner.
 
-Oh. Where’s she going?
+TREVOR: Oh. Where’s she going?
 
-Why are you down here?
+KATY: Why are you down here?
 
-Well, some time ago, I was offered the role of a terrorist.
+TREVOR: Well, some time ago, I was offered the role of a terrorist.
 
-I know, facile, trite, I couldn’t agree more.
+TREVOR: I know, facile, trite, I couldn’t agree more.
 
-But times were lean, you know what I mean?
+TREVOR: But times were lean, you know what I mean?
 
-Anyway, the producer told me he worked for the BBC.
+TREVOR: Anyway, the producer told me he worked for the BBC.
 
-But, ironic twist, it turns out he, in fact, was a terrorist, and I wasn’t playing a character at all, but what I now recognise to be a rather unflattering portrait of your father.
+TREVOR: But, ironic twist, it turns out he, in fact, was a terrorist, and I wasn’t playing a character at all, but what I now recognise to be a rather unflattering portrait of your father.
 
-We all got our just deserts.
+TREVOR: We all got our just deserts.
 
-The producer got blown up by Iron Man, and I served time in federal prison, which turned out to be the best thing for me.
+TREVOR: The producer got blown up by Iron Man, and I served time in federal prison, which turned out to be the best thing for me.
 
-I got clean, I rediscovered my passion.
+TREVOR: I got clean, I rediscovered my passion.
 
-Then my dad broke you out?
+SHANG-CHI: Then my dad broke you out?
 
-Exactly.
+TREVOR: Exactly.
 
-To kill you.
+SHANG-CHI: To kill you.
 
-Exactly.
+TREVOR: Exactly.
 
-But just as his men were tying me up for my execution, I launched into a performance of my Macbeth.
+TREVOR: But just as his men were tying me up for my execution, I launched into a performance of my Macbeth.
 
-“Whence is that knocking? Wake Duncan with thy knocking. I would’st though could’st…”
+TREVOR: “Whence is that knocking? Wake Duncan with thy knocking. I would’st though could’st…”
 
-They couldn’t get enough of it.
+TREVOR: They couldn’t get enough of it.
 
-I’ve been doing weekly gigs for the lads ever since.
+TREVOR: I’ve been doing weekly gigs for the lads ever since.
 
-So you’re like his jester?
+KATY: So you’re like his jester?
 
-I can give you a quick preview if you like.
+TREVOR: I can give you a quick preview if you like.
 
-“Nuncle, nuncle, nuncle…”
+TREVOR: “Nuncle, nuncle, nuncle…”
 
-Uh, thank you, Trevor. I think we’re okay.
+SHANG-CHI: Uh, thank you, Trevor. I think we’re okay.
 
-Right now, we really just need to find a way to…
+SHANG-CHI: Right now, we really just need to find a way to…
 
 (CREATURE PURRING)
 
-What the hell?
+SHANG-CHI: What the hell?
 
 KATY: What the… Oh!
 
-Whoa!
+KATY: Whoa!
 
-What is that?
+SHANG-CHI: What is that?
 
 (KATY EXCLAIMING)
 
-What’s what?
+TREVOR: What’s what?
 
-That! What is that?
+KATY: That! What is that?
 
-That! That! That!
+SHANG-CHI: That! That! That!
 
 (CREATURE COOS)
 
-You can see Morris?
+TREVOR: You can see Morris?
 
 KATY: Morris?
 
 (LAUGHS) Oh, Morris!
 
-They can see you! You’re real!
+TREVOR: They can see you! You’re real!
 
-All this time I thought I was hallucinating him.
+TREVOR: All this time I thought I was hallucinating him.
 
-Oh, this is such fab news.
+TREVOR: Oh, this is such fab news.
 
-Where’s his face?
+KATY: Where’s his face?
 
 (MORRIS GROWLS)
 
 (SHUSHING)
 
-He’s a bit sensitive about that.
+TREVOR: He’s a bit sensitive about that.
 
 (MORRIS CHITTERING)
 
-Oh. Really?
+TREVOR: Oh. Really?
 
-Morris says he knows who you are.
+TREVOR: Morris says he knows who you are.
 
-It talks… It talks to you?
+KATY: It talks… It talks to you?
 
-(CHUCKLES) If he didn’t talk to me, I’d have gone mad yonks ago.
+TREVOR: (CHUCKLES) If he didn’t talk to me, I’d have gone mad yonks ago.
 
 SHANG-CHI: How would he know me?
 
-He says he grew up with your mum. In Ta Lo.
+TREVOR: He says he grew up with your mum. In Ta Lo.
 
-Apparently, your father picked him up in some magic forest on one of his expeditions to find the entrance.
+TREVOR: Apparently, your father picked him up in some magic forest on one of his expeditions to find the entrance.
 
 (MORRIS PURRING AND COOING)
 
-He wants you to take him home.
+TREVOR: He wants you to take him home.
 
 (MORRIS COOING)
 
-Believe me, buddy, I would if I knew how.
+SHANG-CHI: Believe me, buddy, I would if I knew how.
 
-According to my dad, the path there only opens once a year.
+SHANG-CHI: According to my dad, the path there only opens once a year.
 
 (MORRIS CHITTERING)
 
-Oh. (CHUCKLES)
+TREVOR: Oh. (CHUCKLES)
 
 (CONTINUES CHITTERING)
 
-Morris says he can guide you there right now.
+TREVOR: Morris says he can guide you there right now.
 
-You can get through the maze without waiting for the path to open.
+TREVOR: You can get through the maze without waiting for the path to open.
 
-But, and it’s a big “but,” it’s very dangerous.
+TREVOR: But, and it’s a big “but,” it’s very dangerous.
 
-How dangerous?
+KATY: How dangerous?
 
-No one’s ever made it out alive.
+TREVOR: No one’s ever made it out alive.
 
-But Morris is 90% confident he can guide us through safely.
+TREVOR: But Morris is 90% confident he can guide us through safely.
 
 (MORRIS SQUEALS)
 
-Oh. (CHUCKLES)
+TREVOR: Oh. (CHUCKLES)
 
-19%.
+TREVOR: 19%.
 
-Look, I’ve done dumber things with worse odds.
+KATY: Look, I’ve done dumber things with worse odds.
 
-But even if that chicken-pig is right…
+KATY: But even if that chicken-pig is right…
 
 (MORRIS WHINES)
 
-…we’re still locked in your…
+KATY: …we’re still locked in your…
 
 (CRASHING)
 
 XIALING: Whew!
 
-How did you…
+SHANG-CHI: How did you…
 
-Dad has a tunnel system under the whole compound.
+XIALING: Dad has a tunnel system under the whole compound.
 
-That’s how I escaped last time.
+XIALING: That’s how I escaped last time.
 
-Oh.
+KATY: Oh.
 
-This will take us straight to the garage.
+XIALING: This will take us straight to the garage.
 
 (MORRIS COOS)
 
@@ -1792,41 +1794,41 @@ This will take us straight to the garage.
 
 KATY: Oh, my God.
 
-I kinda like this guy.
+KATY: I kinda like this guy.
 
-Just head up that ramp and through the front gate.
+SHANG-CHI: Just head up that ramp and through the front gate.
 
-Should be a straight shot.
+SHANG-CHI: Should be a straight shot.
 
-Figure we got about 30 seconds until he…
+SHANG-CHI: Figure we got about 30 seconds until he…
 
-Do you mind?
+TREVOR: Do you mind?
 
-I get sick in the back. Carsick.
+TREVOR: I get sick in the back. Carsick.
 
 (MORRIS COOING)
 
 (SHANG-CHI SIGHS)
 
-That’s my car!
+RAZOR FIST: That’s my car!
 
 (ALARM WAILING)
 
 (TYRES SCREECHING)
 
-God damn it.
+KATY: God damn it.
 
-Hold on.
+KATY: Hold on.
 
 (ENGINES REVVING)
 
-Is there another exit?
+KATY: Is there another exit?
 
-The other end of the garage.
+XIALING: The other end of the garage.
 
-But we need a fingerprint to open it.
+XIALING: But we need a fingerprint to open it.
 
-Incoming!
+SHANG-CHI: Incoming!
 
 KATY: Shit!
 
@@ -1842,13 +1844,13 @@ SHANG-CHI: Doing my best.
 
 AUTOMATED VOICE: Scan hand print for gate access.
 
-Hurry up!
+KATY: Hurry up!
 
 SHANG-CHI: I’m trying!
 
 Scan hand print for gate access.
 
-Shaun!
+KATY: Shaun!
 
 Access approved.
 
@@ -1858,61 +1860,61 @@ Access approved.
 
 (DOOR OPENS)
 
-They will come back once I bring her home.
+WENWU: They will come back once I bring her home.
 
-Prepare the men for war.
+WENWU: Prepare the men for war.
 
-Yes, sir.
+RAZOR FIST: Yes, sir.
 
 TREVOR: The first time I witnessed pure artistry.
 
-1968. Planet of the Apes.
+TREVOR: 1968. Planet of the Apes.
 
-I was sitting in the cinema next to my mum, watching mastery unfold before my very eyes.
+TREVOR: I was sitting in the cinema next to my mum, watching mastery unfold before my very eyes.
 
-After the film, I asked her, “How did they get those monkeys to do those things?”
+TREVOR: After the film, I asked her, “How did they get those monkeys to do those things?”
 
-And she patted me on the head and she said, “It’s not real, pet. It’s just acting.”
+TREVOR: And she patted me on the head and she said, “It’s not real, pet. It’s just acting.”
 
-That’s when I knew.
+TREVOR: That’s when I knew.
 
-If they can teach those monkeys to act that brilliantly, just imagine what I could bring to the world.
+TREVOR: If they can teach those monkeys to act that brilliantly, just imagine what I could bring to the world.
 
-So you became an actor because you thought the monkeys were actually…
+SHANG-CHI: So you became an actor because you thought the monkeys were actually…
 
-Riding horses? I did. Yes.
+TREVOR: Riding horses? I did. Yes.
 
-When, in fact, they were simply acting as if they were riding horses.
+TREVOR: When, in fact, they were simply acting as if they were riding horses.
 
-I still can’t get my head round it, to be honest.
+TREVOR: I still can’t get my head round it, to be honest.
 
-Good for you, dude.
+KATY: Good for you, dude.
 
-You found your passion and went for it, and eventually used it to cripple the US government, but whatever.
+KATY: You found your passion and went for it, and eventually used it to cripple the US government, but whatever.
 
 TREVOR: Yeah. No, yeah, thanks.
 
-Um, this is really cool and all, but how long do we have to sit here?
+SHANG-CHI: Um, this is really cool and all, but how long do we have to sit here?
 
-Morris is very clear.
+TREVOR: Morris is very clear.
 
-The way through is all about timing.
+TREVOR: The way through is all about timing.
 
-Okay, but how long are we talking?
+SHANG-CHI: Okay, but how long are we talking?
 
-Like, hours? Days?
+SHANG-CHI: Like, hours? Days?
 
-Friends, I am but a transitory vessel for the infinite wisdom of a creature far more advanced than we’ll ever truly understand.
+TREVOR: Friends, I am but a transitory vessel for the infinite wisdom of a creature far more advanced than we’ll ever truly understand.
 
-What he sees, what he feels of this vast, unknown universe is beyond anything our simple brains can…
+TREVOR: What he sees, what he feels of this vast, unknown universe is beyond anything our simple brains can…
 
 (MORRIS SQUAWKS)
 
-Oh. You can go.
+TREVOR: Oh. You can go.
 
-What?
+KATY: What?
 
-Go. You can go. He says “go.”
+TREVOR: Go. You can go. He says “go.”
 
 (SOFT SUSPENSEFUL MUSIC PLAYING)
 
@@ -1920,11 +1922,11 @@ Go. You can go. He says “go.”
 
 (MORRIS TRILLS)
 
-You should speed up.
+TREVOR: You should speed up.
 
-What? Why?
+KATY: What? Why?
 
-Katy, go, go, go!
+SHANG-CHI: Katy, go, go, go!
 
 (KATY GASPS)
 
@@ -1932,21 +1934,21 @@ Katy, go, go, go!
 
 (MORRIS COOS)
 
-Morris says, “Hard right on three.”
+TREVOR: Morris says, “Hard right on three.”
 
-What?
+KATY: What?
 
 TREVOR: Two…
 
 SHANG-CHI: Hard right where?
 
-Now.
+TREVOR: Now.
 
 (KATY GRUNTS)
 
 (MORRIS TRILLS)
 
-And left.
+TREVOR: And left.
 
 (KATY GRUNTS)
 
@@ -1954,53 +1956,53 @@ And left.
 
 (ALL GRUNTING)
 
-It’s all about staying in the pocket.
+TREVOR: It’s all about staying in the pocket.
 
-What pocket?
+KATY: What pocket?
 
-We’re in it now.
+TREVOR: We’re in it now.
 
 SHANG-CHI: What happens if we don’t stay in the pocket?
 
-The forest eats us.
+TREVOR: The forest eats us.
 
-Eats us? What does that mean?
+SHANG-CHI: Eats us? What does that mean?
 
-He says it eats us. Go left.
+TREVOR: He says it eats us. Go left.
 
 (SHANG-CHI GASPS)
 
 SHANG-CHI: Watch your back!
 
-Stay in the pocket.
+TREVOR: Stay in the pocket.
 
 KATY: How close is it?
 
-Five metres.
+XIALING: Five metres.
 
 TREVOR: Stay in the pocket.
 
-What is that in feet?
+KATY: What is that in feet?
 
-Really fricking close.
+SHANG-CHI: Really fricking close.
 
-Stay in the pocket.
+TREVOR: Stay in the pocket.
 
-Will you just stop saying, “Stay in the pocket”?
+KATY: Will you just stop saying, “Stay in the pocket”?
 
 (DRAMATIC MUSIC PLAYING)
 
-One last right, then straight on to the end.
+TREVOR: One last right, then straight on to the end.
 
 (ALL GRUNTING)
 
-You might wanna hurry up.
+TREVOR: You might wanna hurry up.
 
-What do you think I’m doing?
+KATY: What do you think I’m doing?
 
-We’re not gonna make it.
+XIALING: We’re not gonna make it.
 
-I’m coming home, Mummy.
+TREVOR: I’m coming home, Mummy.
 
 (SHANG-CHI STRAINING)
 
@@ -2010,9 +2012,9 @@ I’m coming home, Mummy.
 
 (MORRIS COOS)
 
-Morris says, “Great job, everyone.”
+TREVOR: Morris says, “Great job, everyone.”
 
-Now, all we have to do is go through that waterfall, and we’re pretty much there.
+TREVOR: Now, all we have to do is go through that waterfall, and we’re pretty much there.
 
 (SHANG-CHI SIGHS)
 
@@ -2032,15 +2034,15 @@ Now, all we have to do is go through that waterfall, and we’re pretty much the
 
 TREVOR: Bloody hell.
 
-I think those birds are on fire.
+TREVOR: I think those birds are on fire.
 
 (MORRIS CHITTERING)
 
-Really? Oh.
+TREVOR: Really? Oh.
 
-Morris says it’s normal.
+TREVOR: Morris says it’s normal.
 
-They’re old mates of his.
+TREVOR: They’re old mates of his.
 
 (ENTHRALLING MUSIC CONTINUES)
 
@@ -2054,9 +2056,9 @@ They’re old mates of his.
 
 (CAR HALTS)
 
-That’s a weird horse.
+TREVOR: That’s a weird horse.
 
-What’s it looking at me for?
+TREVOR: What’s it looking at me for?
 
 (SNORTS)
 
@@ -2070,49 +2072,49 @@ What’s it looking at me for?
 
 (MORRIS CHITTERING)
 
-(IN MANDARIN) Hi there!
+SHANG-CHI: 大家好！
 
-I am Xu Shang-Chi.
+SHANG-CHI: 我是徐尚气。
 
-This is my sister, Xu Xialing.
+SHANG-CHI: 这是我的妹妹，徐夏灵。
 
-We’re Ying Li’s children.
+SHANG-CHI: 我们是映丽的孩子。
 
-This is my friend, Katy.
+SHANG-CHI: 这是我的朋友，凯蒂。
 
-Get in your car and go home!
+GUANG BO: 少说！哪儿来的回哪去！
 
-Please. You don’t understand.
+SHANG-CHI: 你误会了。请听我们说。
 
 (ALL GRUNT)
 
 (CREATURE GROWLS)
 
-Whoa.
+SHANG-CHI: Whoa.
 
 (WOMAN SPEAKING)
 
-Guang Bo!
+YING NAN: 光伯！
 
-What are you doing?
+YING NAN: 你这是在干什么？
 
-Put down your weapons!
+YING NAN: 放下你们的武器！
 
-Shang-Chi.
+YING NAN: 尚气。
 
-Xialing.
+YING NAN: 夏灵。
 
-I’m your aunty Nan.
+YING NAN: 我是你们的小姨映南。
 
-I’ve waited so long to meet you.
+YING NAN: 终于见到你们了。
 
-You look like your mother.
+YING NAN: 你像你的妈妈。
 
-(IN ENGLISH) Hi, I’m Katy.
+KATY: Hi, I’m Katy.
 
 YING NAN: Welcome to Ta Lo, Katy.
 
-Oh, thank you.
+KATY: Oh, thank you.
 
 (MORRIS PANTING EXCITEDLY)
 
@@ -2120,15 +2122,15 @@ Oh, thank you.
 
 YING NAN: Look who has found his way home! (CHUCKLES)
 
-I’m not a threat.
+TREVOR: I’m not a threat.
 
-Just an entertainer.
+TREVOR: Just an entertainer.
 
-Morris can vouch for me.
+TREVOR: Morris can vouch for me.
 
-We don’t have much time.
+SHANG-CHI: We don’t have much time.
 
-Our father is coming.
+SHANG-CHI: Our father is coming.
 
 (SIGHS SOFTLY)
 
@@ -2136,85 +2138,85 @@ Our father is coming.
 
 YING NAN: Our people have been here for over 4,000 years, preparing for something we hope will never happen.
 
-We are the keepers of the Dark Gate, sworn to protect this realm and yours from the evil that’s locked behind it.
+YING NAN: We are the keepers of the Dark Gate, sworn to protect this realm and yours from the evil that’s locked behind it.
 
 SHANG-CHI: Our dad is coming here to open that gate.
 
-He thinks you’re holding our mom there.
+SHANG-CHI: He thinks you’re holding our mom there.
 
-Why would he think that?
+YING NAN: Why would he think that?
 
 XIALING: She told him.
 
-He says he can hear her asking for help.
+XIALING: He says he can hear her asking for help.
 
-Is he wearing the rings?
+YING NAN: Is he wearing the rings?
 
 SHANG-CHI: He hasn’t taken them off since she died.
 
-What do they have to do with all this?
+SHANG-CHI: What do they have to do with all this?
 
 YING NAN: The realm of Ta Lo stretches far beyond the shores of our small village.
 
-We have cities that surpass any in your universe, rich with culture and history.
+YING NAN: We have cities that surpass any in your universe, rich with culture and history.
 
-Thousands of years ago, all of our people lived in peace and prosperity, until the attack of the Dweller-in-Darkness.
+YING NAN: Thousands of years ago, all of our people lived in peace and prosperity, until the attack of the Dweller-in-Darkness.
 
-He came with his army, devouring every soul in their path, and with each kill, they grew stronger.
+YING NAN: He came with his army, devouring every soul in their path, and with each kill, they grew stronger.
 
-After decimating our largest cities, they were headed to your universe to do the same.
+YING NAN: After decimating our largest cities, they were headed to your universe to do the same.
 
-The leaders of Ta Lo sent their strongest warriors here to stop them from reaching the portal to your world.
+YING NAN: The leaders of Ta Lo sent their strongest warriors here to stop them from reaching the portal to your world.
 
-But our ancestors were no match for them.
+YING NAN: But our ancestors were no match for them.
 
-Until The Great Protector joined their fight and turned the tide.
+YING NAN: Until The Great Protector joined their fight and turned the tide.
 
-Together, they pushed the Dweller and his army into the Dark Gate and locked it behind them.
+YING NAN: Together, they pushed the Dweller and his army into the Dark Gate and locked it behind them.
 
-Our people have guarded that gate ever since, empowered by the magic of The Great Protector and the gift that she gave us.
+YING NAN: Our people have guarded that gate ever since, empowered by the magic of The Great Protector and the gift that she gave us.
 
 (WEAPON POWERS UP)
 
 (KATY GASPS)
 
-Dragon scales.
+YING NAN: Dragon scales.
 
-Makes very good armour.
+YING NAN: Makes very good armour.
 
-Your father isn’t the first to come here to open the Dark Gate.
+YING NAN: Your father isn’t the first to come here to open the Dark Gate.
 
-Many have tried and failed over the centuries, and they all had one thing in common.
+YING NAN: Many have tried and failed over the centuries, and they all had one thing in common.
 
-They were lured here by the voice of something on the other side.
+YING NAN: They were lured here by the voice of something on the other side.
 
-A voice that promised them their greatest desires.
+YING NAN: A voice that promised them their greatest desires.
 
-So you think soul eaters are talking to our dad?
+SHANG-CHI: So you think soul eaters are talking to our dad?
 
-They know The Ten Rings have the power to break them free.
+YING NAN: They know The Ten Rings have the power to break them free.
 
 (KATY GASPS)
 
-Oh.
+KATY: Oh.
 
-Here you go.
+KATY: Here you go.
 
-Oh.
+KATY: Oh.
 
-(IN MANDARIN) To the range.
+TA LO VILLAGER: 去射箭场。
 
-(IN ENGLISH) What? Okay.
+KATY: What? Okay.
 
-Um, looks like I’m gonna go deliver some dragon arrows.
+KATY: Um, looks like I’m gonna go deliver some dragon arrows.
 
-Oh, you’re gonna deliver some dragon arrows?
+SHANG-CHI: Oh, you’re gonna deliver some dragon arrows?
 
 KATY: Yeah. Make myself useful, you know.
 
-Thank you.
+KATY: Thank you.
 
-Let’s go see your mother.
+YING NAN: Let’s go see your mother.
 
 (MORRIS BABBLING)
 
@@ -2224,63 +2226,63 @@ Let’s go see your mother.
 
 (BOTH GRUNTING)
 
-I just love how you guys know exactly what you wanna do, and you spend your whole life getting really good at it.
+KATY: I just love how you guys know exactly what you wanna do, and you spend your whole life getting really good at it.
 
-I wish I was more like that.
+KATY: I wish I was more like that.
 
-It’s like every time I get moderately good at something, I just quit and start something new.
+KATY: It’s like every time I get moderately good at something, I just quit and start something new.
 
-But I just know my own limits, and I’m not gonna waste my time chasing something that will ultimately be a disappointment for me.
+KATY: But I just know my own limits, and I’m not gonna waste my time chasing something that will ultimately be a disappointment for me.
 
-That’s not me.
+KATY: That’s not me.
 
 (SPEAKING MANDARIN)
 
-Guang Bo.
+TA LO VILLAGER: 光伯。
 
-Let her shoot.
+TA LO VILLAGER: 让她试试。
 
-If you aim at nothing, you hit nothing.
+TA LO VILLAGER: 如果你心中没有靶子，就是无的放矢。
 
 (SOFT FOLK MUSIC PLAYING)
 
-YING NAN: (IN ENGLISH) You were everything to her.
+YING NAN: You were everything to her.
 
-She knew that one day you would find your way here and asked me to prepare something for your arrival.
+YING NAN: She knew that one day you would find your way here and asked me to prepare something for your arrival.
 
 (MUSIC SWELLING)
 
-After losing someone like her, it’s easy to feel alone in this world.
+YING NAN: After losing someone like her, it’s easy to feel alone in this world.
 
-But you’re not.
+YING NAN: But you’re not.
 
-You are children of this family, and I welcome you home.
+YING NAN: You are children of this family, and I welcome you home.
 
 (SHANG-CHI SIGHS)
 
 (SHOUTING SYNCHRONOUSLY)
 
-(IN MANDARIN) You’re not in your father’s house any more.
+YING NAN: 这里不是你父亲的家。
 
-In Ta Lo, we train as equals.
+YING NAN: 在大罗，每个人都可以练武。
 
-You’ve been in the shadows long enough, my child.
+YING NAN: 是时候从影子里走出来了，孩子。
 
 (STIRRING MUSIC PLAYING)
 
-(IN ENGLISH) Guang Bo, you saw that?
+KATY: Guang Bo, you saw that?
 
-That was tight!
+KATY: That was tight!
 
 (SOFT FOLK MUSIC PLAYING)
 
-My mother was the only one who could beat him.
+SHANG-CHI: My mother was the only one who could beat him.
 
-Show me how she did it.
+SHANG-CHI: Show me how she did it.
 
 TREVOR: (WHISTLES) No, sorry.
 
-Sorry. Offside, offside.
+TREVOR: Sorry. Offside, offside.
 
 (GRUNTING)
 
@@ -2296,7 +2298,7 @@ Sorry. Offside, offside.
 
 YING NAN: Your mother knew who she was.
 
-Do you?
+YING NAN: Do you?
 
 (SHANG-CHI GRUNTS)
 
@@ -2316,61 +2318,61 @@ Do you?
 
 (SIGHS)
 
-You are a product of all who came before you.
+YING NAN: You are a product of all who came before you.
 
-The legacy of your family, the good and the bad, it is all a part of who you are.
+YING NAN: The legacy of your family, the good and the bad, it is all a part of who you are.
 
 (CHUCKLES SOFTLY)
 
-Stop hiding, nephew.
+YING NAN: Stop hiding, nephew.
 
-It only prolongs the pain.
+YING NAN: It only prolongs the pain.
 
 (MUFFLED CHATTERING)
 
 (SOFT SENTIMENTAL MUSIC PLAYING)
 
-LI: (IN MANDARIN) We’ll be together soon.
+LI: 我们很快就能团聚了。
 
-RAZOR FIST: (IN ENGLISH) Sir.
+RAZOR FIST: Sir.
 
-The men are ready.
+RAZOR FIST: The men are ready.
 
-The passage will open at dawn.
+WENWU: The passage will open at dawn.
 
 RAZOR FIST: I’ll prepare the vehicles.
 
 (SIGHS)
 
-LI: (IN MANDARIN) Lead with your breath.
+LI: 以心行气。
 
-Look into your heart, the light and the dark.
+LI: 以气运身，要先掌握阴阳的转换。
 
-To know yourself, you must face them both.
+LI: 你才能找到内心的平衡，从而真正认识自己。
 
 (SOFT SUSPENSEFUL MUSIC PLAYING)
 
-MAN: Your husband tried to destroy us.
+GANG LEADER: 夫想灭了我的门。
 
-The Iron Gang is here to repay that debt.
+GANG LEADER: 我们今天是来回礼的。
 
-My husband is not the man he used to be.
+LI: 他已经不是以前的那个人了。
 
-GANG LEADER: It doesn’t matter.
+GANG LEADER: 那我不管。
 
-Your business with him has nothing to do with my children.
+LI: 你们之间的事情跟我的孩子们无关。
 
-They can go, but someone has to pay.
+GANG LEADER: 放了他们可以，但这个礼必须有人来接吧。
 
-Xialing. Shang-Chi.
+LI: 夏灵。尚气。
 
-Go inside.
+LI: 进屋去。
 
-I’m going to talk to our guests.
+LI: 我跟客人有话要说。
 
-But you don’t have your powers.
+YOUNG SHANG-CHI: 可是你现在没有魔法了呀。
 
-Shang-Chi, you have nothing to fear.
+LI: 尚气，别怕。
 
 (TENSE MUSIC PLAYING)
 
@@ -2392,9 +2394,9 @@ Shang-Chi, you have nothing to fear.
 
 (SOMBRE MUSIC PLAYING)
 
-YOUNG SHANG-CHI: Mama.
+YOUNG SHANG-CHI: 妈妈。
 
-Mama.
+YOUNG SHANG-CHI: 妈妈。
 
 (BREATHES SHAKILY)
 
@@ -2402,19 +2404,19 @@ Mama.
 
 (YOUNG XIALING SOBBING QUIETLY)
 
-Papa.
+YOUNG SHANG-CHI: 爸爸。
 
-She told me I could change.
+WENWU: 她说我是可以改变的。
 
-That I could leave my past behind.
+WENWU: 我可以放下一切。
 
 (SIGHS)
 
-But she was wrong.
+WENWU: 可是她错了。
 
-If I hadn’t taken them off, those men wouldn’t have dared to do this.
+WENWU: 如果我当初没有把它们摘下来，那些混蛋根本就不敢动手。
 
-And now they will pay for it.
+WENWU: 他们要付出代价。
 
 (LOW DRAMATIC MUSIC PLAYING)
 
@@ -2434,15 +2436,15 @@ And now they will pay for it.
 
 (GASPS)
 
-Where’s your boss?
+WENWU: 你们老板呢？
 
-I don’t know!
+MAN: 我不知道！
 
-I swear I don’t!
+MAN: 我真的不知道！
 
 (MAN BREATHING SHAKILY)
 
-Okay.
+WENWU: 那好。
 
 (FIRES)
 
@@ -2450,65 +2452,65 @@ Okay.
 
 (BREATHING NERVOUSLY)
 
-A blood debt has to be paid by blood.
+WENWU: 血债必须要血偿。
 
-Will you help me?
+WENWU: 你愿意帮爸爸吗？
 
 (SLOW DRAMATIC MUSIC PLAYING)
 
-(IN ENGLISH) We found the man responsible for killing your mother.
+WENWU: We found the man responsible for killing your mother.
 
-It is your right to finish this for both of us.
+WENWU: It is your right to finish this for both of us.
 
-And when you return, we will rebuild The Ten Rings to what it once was.
+WENWU: And when you return, we will rebuild The Ten Rings to what it once was.
 
-Been looking everywhere for ya.
+KATY: Been looking everywhere for ya.
 
-You okay?
+KATY: You okay?
 
-I’m not who you think I am.
+SHANG-CHI: I’m not who you think I am.
 
-You already apologised for that. We’re good…
+KATY: You already apologised for that. We’re good…
 
-That’s not what I’m talking about.
+SHANG-CHI: That’s not what I’m talking about.
 
-Okay.
+KATY: Okay.
 
-What… What is it?
-
-(SIGHS)
-
-When my dad sent me to find the man who killed my mom…
-
-I told you I couldn’t go through with it.
-
-I lied.
-
-I thought that I could change my name, start a new life, pretend like it never happened.
-
-But…
+KATY: What… What is it?
 
 (SIGHS)
 
-She would hate the person I’ve become.
+SHANG-CHI: When my dad sent me to find the man who killed my mom…
 
-Your dad trained you to be an assassin when you were seven.
+SHANG-CHI: I told you I couldn’t go through with it.
 
-He sent you on a hit at 14.
+SHANG-CHI: I lied.
 
-You realise how messed up that is, right?
+SHANG-CHI: I thought that I could change my name, start a new life, pretend like it never happened.
 
-My mom is dead because of him.
+SHANG-CHI: But…
 
-And now he’s coming to destroy her home.
+(SIGHS)
 
-(IN MANDARIN) A blood debt has to be paid by blood.
+SHANG-CHI: She would hate the person I’ve become.
 
-(IN ENGLISH) What are you saying?
+KATY: Your dad trained you to be an assassin when you were seven.
 
-I’m gonna do what he trained me to do.
+KATY: He sent you on a hit at 14.
 
-I’m gonna kill him.
+KATY: You realise how messed up that is, right?
+
+SHANG-CHI: My mom is dead because of him.
+
+SHANG-CHI: And now he’s coming to destroy her home.
+
+SHANG-CHI: 血债必须要血偿。
+
+KATY: What are you saying?
+
+SHANG-CHI: I’m gonna do what he trained me to do.
+
+SHANG-CHI: I’m gonna kill him.
 
 (LOW SOMBRE MUSIC PLAYING)
 
@@ -2524,17 +2526,17 @@ I’m gonna kill him.
 
 (HURRIED CHATTER)
 
-He’s here.
+XIALING: He’s here.
 
 (ALARMED CHATTER)
 
 (GUANG BO SPEAKING MANDARIN)
 
-No!
+GUANG BO: 不行！
 
-You’re not ready.
+GUANG BO: 你还没准备好。
 
-She stays here.
+GUANG BO: 她留下来。
 
 (DRAMATIC MUSIC SWELLS)
 
@@ -2542,31 +2544,31 @@ She stays here.
 
 (CREATURE GROWLS)
 
-(IN ENGLISH) Are you here to help the people holding your own mother captive?
+WENWU: Are you here to help the people holding your own mother captive?
 
 YING NAN: She isn’t back there.
 
-You’re being lied to by a creature who wants to destroy us all.
+YING NAN: You’re being lied to by a creature who wants to destroy us all.
 
-Is that what they told you?
+WENWU: Is that what they told you?
 
-I know my wife’s voice.
+WENWU: I know my wife’s voice.
 
-I miss my sister as much as you do, but this is not the way to honour her memory.
+YING NAN: I miss my sister as much as you do, but this is not the way to honour her memory.
 
-Did you honour her when you turned her away from your gate?
+WENWU: Did you honour her when you turned her away from your gate?
 
-(IN MANDARIN) You fool. We turned you away.
+GUANG BO: 混账。我们拒绝的人是你。
 
-The sins of your past would have destroyed this place.
+GUANG BO: 树去造的孽会毁了这个地方。
 
-Be careful how you speak to me, young man.
+WENWU: 小子，跟我讲话礼貌点厂。
 
-I’ve lived ten of your lifetimes.
+WENWU: 我吃的盐比你吃的饭还要多。
 
-(IN ENGLISH) Let me pass.
+WENWU: Let me pass.
 
-We cannot do that.
+YING NAN: We cannot do that.
 
 (ALL GRUNT)
 
@@ -2576,7 +2578,7 @@ We cannot do that.
 
 (SIGHS)
 
-Burn it down.
+WENWU: Burn it down.
 
 (ALL GRUNTING)
 
@@ -2598,31 +2600,31 @@ Burn it down.
 
 (GRUNTS LOUDLY)
 
-Stop him!
+XIALING: Stop him!
 
 (BOTH GRUNTING)
 
 (BREATHING HEAVILY)
 
-Are you planning to stop me all by yourself?
+WENWU: Are you planning to stop me all by yourself?
 
-I’m not afraid of you.
+SHANG-CHI: I’m not afraid of you.
 
-Yes, you are.
+WENWU: Yes, you are.
 
 (BOTH GRUNT)
 
-You’ve spent your entire life afraid.
+WENWU: You’ve spent your entire life afraid.
 
-Always running, always hiding.
+WENWU: Always running, always hiding.
 
 (GRUNTS)
 
 (BOTH GRUNTING)
 
-You were there when they came for her, and you did nothing.
+WENWU: You were there when they came for her, and you did nothing.
 
-You stood at a window and watched her die!
+WENWU: You stood at a window and watched her die!
 
 (BREATHING SHAKILY)
 
@@ -2632,39 +2634,39 @@ You stood at a window and watched her die!
 
 (BOTH GRUNTING)
 
-She was gone and we needed you.
+SHANG-CHI: She was gone and we needed you.
 
-But you chose those damn rings over us. (SNIFFLES)
+SHANG-CHI: But you chose those damn rings over us. (SNIFFLES)
 
 (BOTH GRUNTING)
 
-You trained your son to be a killer.
+SHANG-CHI: You trained your son to be a killer.
 
-Is this what you wanted?
+SHANG-CHI: Is this what you wanted?
 
 (BOTH GRUNTING)
 
 (PANTING)
 
-Even if you could bring her back,
+SHANG-CHI: Even if you could bring her back,
 
-what makes you think she’d want anything to do with you?
+SHANG-CHI: what makes you think she’d want anything to do with you?
 
 (BOTH GRUNTING)
 
 (BREATHING HEAVILY)
 
-LI: (IN MANDARIN) Save me.
+LI: 来救我。
 
-Save me, my dear.
+LI: 快来救我。
 
 (GRUNTS)
 
 (SLOW DRAMATIC MUSIC PLAYING)
 
-Save me.
+LI: 救我。
 
-I’m coming, my love.
+WENWU: 我们回家。
 
 (GRUNTING)
 
@@ -2690,17 +2692,17 @@ I’m coming, my love.
 
 (SCREECHING)
 
-(IN ENGLISH) He breached the gate!
+YING NAN: He breached the gate!
 
-Those things are gonna kill us all if we don’t work together.
+XIALING: Those things are gonna kill us all if we don’t work together.
 
-You think I’m going to fall for that?
+RAZOR FIST: You think I’m going to fall for that?
 
-Your weapons are useless against them.
+YING NAN: Your weapons are useless against them.
 
-We don’t need your help.
+RAZOR FIST: We don’t need your help.
 
-We are the mighty Ten Rings, and any…
+RAZOR FIST: We are the mighty Ten Rings, and any…
 
 (CREATURE SCREECHES)
 
@@ -2712,39 +2714,39 @@ We are the mighty Ten Rings, and any…
 
 (PANTING)
 
-We… We should work together.
+RAZOR FIST: We… We should work together.
 
-Release them.
+RAZOR FIST: Release them.
 
-Release them!
+RAZOR FIST: Release them!
 
 XIALING: What are they doing?
 
 YING NAN: Stealing souls to feed the Dweller-in-Darkness.
 
-If it grows strong enough, it will break right through the gate.
+YING NAN: If it grows strong enough, it will break right through the gate.
 
-That was just the beginning.
+YING NAN: That was just the beginning.
 
 (URGENT CHATTER)
 
-(IN MANDARIN) It’s too dangerous.
+TA LO VILLAGER: 太危险了。
 
-(IN ENGLISH) I have to help my friends.
+KATY: I have to help my friends.
 
-(IN MANDARIN) Don’t die.
+GUANG BO: 活着回来。
 
-Everyone to the water now!
+GUANG BO: 所有人马上到湖边集合。
 
-RAZOR FIST: (IN ENGLISH) To the lake! Let’s go!
+RAZOR FIST: To the lake! Let’s go!
 
-Let’s go!
+RAZOR FIST: Let’s go!
 
-Hey, where’s your brother?
+KATY: Hey, where’s your brother?
 
-I was hoping you knew.
+XIALING: I was hoping you knew.
 
-LI: (IN MANDARIN) Save me.
+LI: 救我。
 
 (GRUNTS)
 
@@ -2758,33 +2760,33 @@ LI: (IN MANDARIN) Save me.
 
 (SCREECHING)
 
-Aim at the sky, to win or die!
+GUANG BO: 齐天共战，视死如归！
 
 (SIGHING)
 
 (CREATURE GROWLS)
 
-Deep breath.
+GUANG BO: 深吸一口气。
 
 (BREATHES DEEPLY)
 
 (SCREECHING CONTINUES)
 
-LI: Shang-Chi, you have nothing to fear.
+LI: 尚气别怕。
 
-You have the heart of our dragon.
+LI: 你有神龙之心。
 
-I will always be a part of you. And your dad will too.
+LI: 你是妈妈的血脉。也是爸爸的。
 
-Take everything we’ve given you and make it your own.
+LI: 你要把我们给你的一切化成你自己的力量。
 
 (GENTLE STRING MUSIC PLAYING)
 
-I’m so proud of you.
+LI: 你是妈妈的骄傲。
 
-Our family needs you.
+LI: 我们家需要你。
 
-Go.
+LI: 去吧。
 
 (GASPS)
 
@@ -2796,9 +2798,9 @@ Go.
 
 (CREATURES SCREECHING)
 
-Draw.
+GUANG BO: 开考。
 
-Fire!
+GUANG BO: 放箭！
 
 (FRANTIC SCREECHING)
 
@@ -2808,7 +2810,7 @@ Fire!
 
 (ROARS)
 
-(IN ENGLISH) You have to stop your father!
+YING NAN: You have to stop your father!
 
 (GASPING)
 
@@ -2822,11 +2824,11 @@ Fire!
 
 (PANTING)
 
-She’s not back there, Dad.
+SHANG-CHI: She’s not back there, Dad.
 
-Get out of my way, boy.
+WENWU: Get out of my way, boy.
 
-No.
+SHANG-CHI: No.
 
 (DRAMATIC TRADITIONAL MUSIC CONTINUES)
 
@@ -2860,11 +2862,11 @@ No.
 
 (TRILLING WORRIEDLY)
 
-Calm down, mate.
+TREVOR: Calm down, mate.
 
-I’m not dead, it’s just a performance.
+TREVOR: I’m not dead, it’s just a performance.
 
-Now get down here and play along.
+TREVOR: Now get down here and play along.
 
 (MORRIS COOS)
 
@@ -2912,17 +2914,17 @@ Now get down here and play along.
 
 (SIGHING)
 
-I have to save her.
+WENWU: I have to save her.
 
-She’s calling to me.
+WENWU: She’s calling to me.
 
-I wish that were true.
+SHANG-CHI: I wish that were true.
 
-Dad, please.
+SHANG-CHI: Dad, please.
 
-Your family needs you.
+SHANG-CHI: Your family needs you.
 
-LI: (IN MANDARIN) Let me out!
+LI: 放我出去！
 
 (CRACKLING)
 
@@ -2940,7 +2942,7 @@ LI: (IN MANDARIN) Let me out!
 
 (ROARING)
 
-(IN ENGLISH) Shit.
+SHANG-CHI: Shit.
 
 (WENWU GRUNTS)
 
@@ -2980,7 +2982,7 @@ LI: (IN MANDARIN) Let me out!
 
 (ROARS)
 
-It’s headed for the village!
+SHANG-CHI: It’s headed for the village!
 
 (CREATURES CHITTERING)
 
@@ -3022,15 +3024,15 @@ It’s headed for the village!
 
 (BOTH GRUNTING)
 
-GUANG BO: (IN MANDARIN) If it gets our dragon’s soul,
+GUANG BO: 如果神龙龙的灵魂被吞掉了，
 
-it will be unstoppable!
+GUANG BO: 那就什么都阻止不了它了！
 
 (GROWLS)
 
 (SCREECHES)
 
-Aim for the throat!
+GUANG BO: 对准它的喉咙！
 
 (GRUNTS)
 
@@ -3060,15 +3062,15 @@ Aim for the throat!
 
 (SHANG-CHI STRAINING)
 
-You have to let me go.
+XIALING: 放手吧。
 
 (SHANG-CHI PANTING)
 
 (GRUNTS)
 
-Let go!
+XIALING: 放手！
 
-(IN ENGLISH) I’m not leaving you again.
+SHANG-CHI: I’m not leaving you again.
 
 (GROWLS)
 
@@ -3076,7 +3078,7 @@ Let go!
 
 (PAINED SCREECHING)
 
-Holy shit.
+KATY: Holy shit.
 
 (DRAMATIC MUSIC PLAYING)
 
@@ -3092,7 +3094,7 @@ Holy shit.
 
 (SCREECHES)
 
-(IN MANDARIN) Go.
+XIALING: 去吧。
 
 (SHANG-CHI GRUNTING)
 
@@ -3130,23 +3132,23 @@ Holy shit.
 
 (SIGHS)
 
-YING NAN: (IN ENGLISH) Tonight, we honour those who gave their lives so we might see another day.
+YING NAN: Tonight, we honour those who gave their lives so we might see another day.
 
-They were more than warriors.
+YING NAN: They were more than warriors.
 
-They were our mothers and fathers, our sisters and brothers.
+YING NAN: They were our mothers and fathers, our sisters and brothers.
 
-And though we will always hold on to their memories, tonight we release them to rest with our ancestors.
+YING NAN: And though we will always hold on to their memories, tonight we release them to rest with our ancestors.
 
 (MORRIS WHIMPERS)
 
 (SOMBRE TRADITIONAL MUSIC PLAYING)
 
-SHANG-CHI: (IN MANDARIN) Farewell, Dad.
+SHANG-CHI: 爸，一路走好。
 
-XIALING: Mum, we’ll be okay.
+XIALING: 妈妈，放心吧。
 
-YING NAN: (IN ENGLISH) A thousand years ago, and a thousand years from now, we will always be together.
+YING NAN: A thousand years ago, and a thousand years from now, we will always be together.
 
 (SOMBRE TRADITIONAL MUSIC CONTINUES)
 
@@ -3154,11 +3156,11 @@ YING NAN: (IN ENGLISH) A thousand years ago, and a thousand years from now, we w
 
 KATY: I seriously thought we were going to die.
 
-And I’d only learned how to shoot a bow, like, a day earlier, now I’m on a battlefield, killing all these Soul Suckers with Shaun’s aunty, who’s this awesome, magical kung fu goddess.
+KATY: And I’d only learned how to shoot a bow, like, a day earlier, now I’m on a battlefield, killing all these Soul Suckers with Shaun’s aunty, who’s this awesome, magical kung fu goddess.
 
-And I’m hanging on to The Great Protector with my sister at this point, trying not to get eaten by the Mega Soul Sucker.
+SHANG-CHI: And I’m hanging on to The Great Protector with my sister at this point, trying not to get eaten by the Mega Soul Sucker.
 
-Oh, the Mega Soul Sucker was such a nasty bitch.
+KATY: Oh, the Mega Soul Sucker was such a nasty bitch.
 
 SHANG-CHI: Yeah. It was trying to eat our dragon’s soul.
 
@@ -3168,83 +3170,83 @@ SHANG-CHI: Yeah.
 
 KATY: I only had one arrow left, and all I could hear in the back of my mind was my mom’s voice saying, “Just take the shot, you little mooch!”
 
-And so, I aimed right for the Sucker’s throat and I let her fly.
+KATY: And so, I aimed right for the Sucker’s throat and I let her fly.
 
-She hit it dead on.
+SHANG-CHI: She hit it dead on.
 
-And then Shaun used the Ten Rings to do this crazy Kamehameha fireball that exploded the thing…
+KATY: And then Shaun used the Ten Rings to do this crazy Kamehameha fireball that exploded the thing…
 
 (MOUTHING)
 
-…and he saved the world.
+KATY: …and he saved the world.
 
-Yeah, we, uh, lost some good people that day… but we made it.
+SHANG-CHI: Yeah, we, uh, lost some good people that day… but we made it.
 
-We made it.
+SHANG-CHI: We made it.
 
-Are you done mocking me?
+SOO: Are you done mocking me?
 
-Oh, no. We’re not mocking you.
+KATY: Oh, no. We’re not mocking you.
 
-So where is this sister of yours?
+SOO: So where is this sister of yours?
 
-She’s back at my dad’s compound, shutting down his operations.
+SHANG-CHI: She’s back at my dad’s compound, shutting down his operations.
 
-Yeah, his dad was the head of The Ten Rings for the past thousand years.
+KATY: Yeah, his dad was the head of The Ten Rings for the past thousand years.
 
-Two weeks ago, you were parking cars for tips, and you want me to believe you’re now saving the world from soul-sucking monsters?
+SOO: Two weeks ago, you were parking cars for tips, and you want me to believe you’re now saving the world from soul-sucking monsters?
 
-I know, you’re trying to get me back for what I said last time, but I’m not gonna apologise…
+SOO: I know, you’re trying to get me back for what I said last time, but I’m not gonna apologise…
 
 (CRACKLING)
 
-…for speaking the truth as a friend.
+SOO: …for speaking the truth as a friend.
 
-I really meant what I said, and, in fact, I actually think this whole bit you’re doing just further proves my point.
+SOO: I really meant what I said, and, in fact, I actually think this whole bit you’re doing just further proves my point.
 
-You guys are obviously…
+SOO: You guys are obviously…
 
 (CRACKLING CONTINUES)
 
-What?
+SOO: What?
 
-MAN: Shang-Chi.
+WONG: Shang-Chi.
 
-Shang-Chi.
+WONG: Shang-Chi.
 
-Uh… Here.
+SHANG-CHI: Uh… Here.
 
-Present.
+SHANG-CHI: Present.
 
 (CHAIRS SCRAPE)
 
-My name is Wong.
+WONG: My name is Wong.
 
-Yeah, I know, sir. I’m a huge fan…
+SHANG-CHI: Yeah, I know, sir. I’m a huge fan…
 
-Do you have the rings?
+WONG: Do you have the rings?
 
 SHANG-CHI: Uh… Yeah, yes.
 
-Good. Let’s go, we have a lot to talk about.
+WONG: Good. Let’s go, we have a lot to talk about.
 
-You too.
+WONG: You too.
 
 (WONG EXHALES LOUDLY)
 
-Me too?
+KATY: Me too?
 
-I think we should…
+SHANG-CHI: I think we should…
 
-Yeah. (MUMBLES)
+KATY: Yeah. (MUMBLES)
 
 SHANG-CHI: Uh, we gotta go.
 
 KATY: Yeah.
 
-I know this is, like, crazy, but I’m gonna text you, and we’ll do this again. Nice to see you, John.
+KATY: I know this is, like, crazy, but I’m gonna text you, and we’ll do this again. Nice to see you, John.
 
-I’ll Venmo you for the…
+SHANG-CHI: I’ll Venmo you for the…
 
 (R&B MUSIC PLAYING)
 
@@ -3312,69 +3314,69 @@ I’ll Venmo you for the…
 
 WONG: Hmm.
 
-They don’t match any artefacts from our codex.
+WONG: They don’t match any artefacts from our codex.
 
-What do you think?
+WONG: What do you think?
 
 BRUCE: Mm, I’m not sure.
 
-They’re not vibranium. Chitauri?
+BRUCE: They’re not vibranium. Chitauri?
 
-Not like any alien tech I’ve seen.
+CAROL: Not like any alien tech I’ve seen.
 
-How long did your dad have them before he gave them to you?
+CAROL: How long did your dad have them before he gave them to you?
 
-Um…
+SHANG-CHI: Um…
 
-About a thousand years.
+SHANG-CHI: About a thousand years.
 
-Their thermoluminescence indicates they’re older than that.
+BRUCE: Their thermoluminescence indicates they’re older than that.
 
-By a lot.
+BRUCE: By a lot.
 
-The first time you used the rings, we felt it in Kamar-Taj.
+WONG: The first time you used the rings, we felt it in Kamar-Taj.
 
-What is it?
+KATY: What is it?
 
 CAROL: A beacon.
 
 BRUCE: They’re sending a message.
 
-A message to where?
+SHANG-CHI: A message to where?
 
 (BEEPING)
 
 (BEEPING STOPS)
 
-I’m so sorry. I have to deal with this.
+CAROL: I’m so sorry. I have to deal with this.
 
-You can get my number from Bruce.
+CAROL: You can get my number from Bruce.
 
-It was so nice to meet you.
+CAROL: It was so nice to meet you.
 
-Yeah, I… I don’t have her number.
+BRUCE: Yeah, I… I don’t have her number.
 
-She… She does this a lot.
+BRUCE: She… She does this a lot.
 
-Guys, stay safe.
+BRUCE: Guys, stay safe.
 
-Welcome to the circus.
+BRUCE: Welcome to the circus.
 
-I know this is a lot to take in, but you’re gonna have to start getting used to that.
+WONG: I know this is a lot to take in, but you’re gonna have to start getting used to that.
 
-From now on, the trajectory of your lives will be like nothing you’ve ever experienced before.
+WONG: From now on, the trajectory of your lives will be like nothing you’ve ever experienced before.
 
-And there’s no going back.
+WONG: And there’s no going back.
 
-You both have a long journey ahead of you.
+WONG: You both have a long journey ahead of you.
 
-Go home, get some rest.
+WONG: Go home, get some rest.
 
-Yeah. That’s a good idea.
+KATY: Yeah. That’s a good idea.
 
-Yeah. Yeah, we probably should do that.
+SHANG-CHI: Yeah. Yeah, we probably should do that.
 
-Or…
+SHANG-CHI: Or…
 
 (HOTEL CALIFORNIA BY EAGLES PLAYING)
 
@@ -3436,13 +3438,13 @@ Any time of year ♪
 
 (DOOR SLIDES OPEN)
 
-They’re waiting.
+RAZOR FIST: They’re waiting.
 
 (SOFT EERIE MUSIC PLAYING)
 
-Let’s get started.
+XIALING: Let’s get started.
 
-We have a lot of work to do.
+XIALING: We have a lot of work to do.
 
 (HIP-HOP MUSIC PLAYING)
 
