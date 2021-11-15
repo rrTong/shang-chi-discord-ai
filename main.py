@@ -54,12 +54,12 @@ class MyClient(discord.Client):
         """
         this function is called whenever the bot sees a message in a channel
         """
-        regex = fr"{self.user.id}|xu|shang|chi|shaun|shawn|sean|徐|尚|氣|气|気|シャン|チー|샹|치|Шан|Чи|شانج|شي|legend|傳奇|传奇|伝説|ring|環|环|リング|wenwu|文|武|katy|xialing|夏|靈|灵|dragon|龍|龙|竜|master|師父|师父|師匠|kung\s*fu|功夫"
+        regex = fr"{self.user.id}|xu|shang|chi|shaun|shawn|sean|徐|尚|氣|气|気|シャン|チー|샹|치|Шан|Чи|شانج|شي|legend|傳奇|传奇|伝説|ring|環|环|リング|wenwu|文|武|katy|xialing|夏|靈|灵|dragon|龍|龙|竜|master|師父|师父|師匠|kung\s*fu|功夫|ta\s*lo|大羅|大罗|🐉|🐲|💍"
         # ignore the message if it comes from the bot itself
         if message.author.id == self.user.id:
             return
 
-        if any(re.findall(regex, message.content)):
+        if any(re.findall(regex, message.content, re.IGNORECASE)):
           
           # form query payload with the content of the message
           payload = {'inputs': {'text': message.content}}
