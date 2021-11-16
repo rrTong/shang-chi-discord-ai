@@ -10,6 +10,7 @@
 - huggingface
 - discord api
 - replit
+- uptimerobot
 
 ## References:
 
