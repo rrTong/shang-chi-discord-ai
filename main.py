@@ -17,6 +17,10 @@ import re
 # this is my Hugging Face profile link
 API_URL = 'https://api-inference.huggingface.co/models/rrtong/'
 
+# random response for when bot is down
+import random
+from shang_chi_responses import responses
+
 class MyClient(discord.Client):
     def __init__(self, model_name):
         super().__init__()
@@ -74,7 +78,8 @@ class MyClient(discord.Client):
           # or has timed out
           if not bot_response:
               if 'error' in response:
-                  bot_response = '`Error: {}`'.format(response['error'])
+                # bot_response = '`Error: {}`'.format(response['error'])
+                bot_response = random.choice(responses)
               else:
                   bot_response = 'Hmm... something is not right.'
 
