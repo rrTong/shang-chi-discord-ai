@@ -27,10 +27,10 @@ Shang-Chi bot will only respond when the message contains any of the following:
 - Google Drive
 - Google colab
 - kaggle
-- huggingface
+- [huggingface](https://huggingface.co/rrtong/DialoGPT-medium-shang-chi)
 - discord api
-- replit
-- uptimerobot
+- [replit](https://replit.com/@rrtong/shang-chi-discord-ai#main.py)
+- [uptimerobot](https://uptimerobot.com/dashboard#789741189)
 
 ## References:
 
